@@ -15,6 +15,10 @@ I look for opportunities to build impactful products and solve complex problems.
 *   **[Alpha-Dash: Full-Stack Financial Data & Portfolio Platform](https://github.com/zhu-weijie/alpha-dash)**
     * An end-to-end web application built with Python (FastAPI), React/TypeScript, PostgreSQL, Redis, and Celery. Features data integration from financial APIs, portfolio valuation, background data refresh tasks, and CI/CD with GitHub Actions. Demonstrates full-stack development, system architecture, and DevOps practices.
 
+### Database
+*   **[Chariot: A Database Migration Pipeline](https://github.com/zhu-weijie/chariot-data-pipeline)**
+    * A pipeline reliably transfers and aggregates data from a source database (MySQL) to multiple, disparate destinations (PostgreSQL and Neo4j) using a concurrent and parallel-processing framework.
+
 ### Microservices
 
 *   **[FICC-Pricer-Stream: A simulated real-time FICC pricing pipeline](https://github.com/zhu-weijie/ficc-pricer-stream)**
