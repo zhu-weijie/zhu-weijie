@@ -48,6 +48,9 @@ I look for opportunities to build impactful products and solve complex problems.
 *   **[LLMToolHarness: A framework for testing and evaluating LLM tools](https://github.com/zhu-weijie/llm-tool-harness)**
     * A Python library to easily build LLM agents with tool-using capabilities, allowing them to interact with external systems and perform actions.
 
+*   **[RepoToTextAI: A tool to convert repository to text](https://github.com/zhu-weijie/repo-to-text-ai)**
+    * Turn an entire Git repository into a single, organized text file designed for providing context to Large Language Models (LLMs).
+
 *   **[Refine Extension: A customizable web-filtering Chrome Extension](https://github.com/zhu-weijie/refine-extension)**
     * Refine is a lightweight and powerful browser extension that helps you clean up your web browsing experience. It allows you to create custom blocklists to hide unwanted content from job boards and other websites, letting you focus on what truly matters.
 
