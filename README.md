@@ -29,6 +29,9 @@ I look for opportunities to build impactful products and solve complex problems.
 
 ### LangGraph, LangMem
 
+*   **[CogniGraph: A Multi-Tenant AI-Powered Knowledge Assistant](https://github.com/zhu-weijie/cogni-graph)**
+    * A scalable, multi-tenant AI platform designed for enterprise clients to securely upload private documents (PDFs) and query them using natural language. The system leverages a powerful combination of Retrieval-Augmented Generation (RAG) and a Knowledge Graph (KG) to provide accurate, cited, and context-aware answers through an intelligent AI agent.
+
 *   **[MemexAI: An AI research assistant with persistent memory](https://github.com/zhu-weijie/memex-ai)**
     * A command-line research assistant that overcomes the limitations of stateless chatbots. It uses a persistent SQLite backend to remember your conversation history across sessions and an in-memory store to recall key facts during a live session.
 
