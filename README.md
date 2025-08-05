@@ -27,7 +27,7 @@ I look for opportunities to build impactful products and solve complex problems.
 *   **[FICCPricerStream: A simulated real-time FICC pricing pipeline](https://github.com/zhu-weijie/ficc-pricer-stream)**
     * A simulated real-time FICC pricing pipeline built with Python, Docker, and Redis to demonstrate a distributed microservice architecture.
 
-### LangGraph, LangMem
+### Generative AI, LangGraph, LangMem
 
 *   **[CogniGraph: A Multi-Tenant AI-Powered Knowledge Assistant](https://github.com/zhu-weijie/cogni-graph)**
     * A scalable, multi-tenant AI platform designed for enterprise clients to securely upload private documents (PDFs) and query them using natural language. The system leverages a powerful combination of Retrieval-Augmented Generation (RAG) and a Knowledge Graph (KG) to provide accurate, cited, and context-aware answers through an intelligent AI agent.
@@ -37,6 +37,10 @@ I look for opportunities to build impactful products and solve complex problems.
 
 *   **[LanggraphAutopilot: A LangGraph-based autonomous agent framework](https://github.com/zhu-weijie/langgraph-autopilot)**
     * An autonomous software engineering agent that reads GitHub issues, analyzes codebases, and writes and submits code changes to resolve them.
+
+*   **[EmbeddingStudio: A cloud-native FastAPI application for text processing and semantic search, featuring AWS Bedrock for embedding generation.](https://github.com/zhu-weijie/embedding-studio-api)**
+    * A cloud-native FastAPI application for text processing and semantic search, featuring AWS Bedrock for embedding generation. It is deployed on AWS ECS with a complete CI/CD pipeline using GitHub Actions and Terraform for Infrastructure as Code.
+
 
 ### MLOps
 
@@ -56,6 +60,9 @@ I look for opportunities to build impactful products and solve complex problems.
 
 *   **[Refine Extension: A customizable web-filtering Chrome Extension](https://github.com/zhu-weijie/refine-extension)**
     * Refine is a lightweight and powerful browser extension that helps you clean up your web browsing experience. It allows you to create custom blocklists to hide unwanted content from job boards and other websites, letting you focus on what truly matters.
+
+*   **[AlembicCloudMigrator: FastAPI + Alembic on ECS Fargate](https://github.com/zhu-weijie/alembic-cloud-migrator)**
+    * A minimal but complete Proof-of-Concept (PoC) demonstrating how to automatically run Alembic database migrations at container startup for a FastAPI application deployed on AWS ECS Fargate.
 
 ---
 
