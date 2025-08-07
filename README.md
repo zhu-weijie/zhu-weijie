@@ -32,6 +32,9 @@ I look for opportunities to build impactful products and solve complex problems.
 *   **[CogniGraph: A Multi-Tenant AI-Powered Knowledge Assistant](https://github.com/zhu-weijie/cogni-graph)**
     * A scalable, multi-tenant AI platform designed for enterprise clients to securely upload private documents (PDFs) and query them using natural language. The system leverages a powerful combination of Retrieval-Augmented Generation (RAG) and a Knowledge Graph (KG) to provide accurate, cited, and context-aware answers through an intelligent AI agent.
 
+*   **[AegisAI: An AI-powered cybersecurity application for phishing triage and threat intelligence correlation](https://github.com/zhu-weijie/aegis-ai)**
+    * Aegis AI is application of modern AI/ML techniques to solve real-world problems in Cyber Data Risk & Resilience. It provides an API-driven platform to automate the analysis of potential threats, reducing manual toil for security analysts and enabling faster response times.
+
 *   **[MemexAI: An AI research assistant with persistent memory](https://github.com/zhu-weijie/memex-ai)**
     * A command-line research assistant that overcomes the limitations of stateless chatbots. It uses a persistent SQLite backend to remember your conversation history across sessions and an in-memory store to recall key facts during a live session.
 
