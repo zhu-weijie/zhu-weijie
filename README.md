@@ -35,6 +35,9 @@ I look for opportunities to build impactful products and solve complex problems.
 *   **[AegisAI: An AI-powered cybersecurity application for phishing triage and threat intelligence correlation](https://github.com/zhu-weijie/aegis-ai)**
     * Aegis AI is application of modern AI/ML techniques to solve real-world problems in Cyber Data Risk & Resilience. It provides an API-driven platform to automate the analysis of potential threats, reducing manual toil for security analysts and enabling faster response times.
 
+*   **[AuraClinicalAnalytics: An AI-powered, event-driven system for real-time patient risk prediction](https://github.com/zhu-weijie/aura-clinical-analytics)**
+    * AURA is a comprehensive, event-driven AI system built to demonstrate a realistic healthcare use case. It simulates a stream of clinical data, processes it through a Kafka pipeline, makes predictions using both a traditional ML model and a generative LLM, and visualizes the results in a monitoring dashboard.
+
 *   **[MemexAI: An AI research assistant with persistent memory](https://github.com/zhu-weijie/memex-ai)**
     * A command-line research assistant that overcomes the limitations of stateless chatbots. It uses a persistent SQLite backend to remember your conversation history across sessions and an in-memory store to recall key facts during a live session.
 
