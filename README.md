@@ -56,6 +56,14 @@ I look for opportunities to build impactful products and solve complex problems.
 *   **[CreatorPulse: A MLOps platform for AI-powered content creation](https://github.com/zhu-weijie/creator-pulse)**
     * An end-to-end MLOps project for real-time YouTube sentiment analysis. Powers a Chrome Extension via a Flask API, deployed on AWS with full CI/CD.
 
+### Architecture-as-Code (AaC)
+
+*   **[Pulse Analytics](https://github.com/zhu-weijie/design-pulse-analytics)**
+    * A modern data pipelines on AWS, designed via Architecture-as-Code. Powers BI dashboards and a data catalog using a portable, containerized stack with Airflow, Spark, and Redshift.
+
+*   **[Medical Claims System](https://github.com/zhu-weijie/design-medclaim-assure)**
+    * System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
+
 ### Other
 
 *   **[LLMToolHarness: A framework for testing and evaluating LLM tools](https://github.com/zhu-weijie/llm-tool-harness)**
