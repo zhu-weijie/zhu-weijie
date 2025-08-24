@@ -56,7 +56,9 @@ I look for opportunities to build impactful products and solve complex problems.
 *   **[CreatorPulse: A MLOps platform for AI-powered content creation](https://github.com/zhu-weijie/creator-pulse)**
     * An end-to-end MLOps project for real-time YouTube sentiment analysis. Powers a Chrome Extension via a Flask API, deployed on AWS with full CI/CD.
 
-### Architecture-as-Code (AaC)
+### Innovative Synthesis
+
+These are projects that combine three of the most powerful trends in modern software design: Architecture-as-Code (AaC), Diagrams-as-Code (using Mermaid), and Issue-Driven Development (IDD). By insisting that every architectural change starts as an issue with a clear Problem, Solution, and Trade-offs section, these projects are designed in a highly disciplined form of Evolutionary Architecture.
 
 *   **[Pulse Analytics](https://github.com/zhu-weijie/design-pulse-analytics)**
     * A modern data pipelines on AWS, designed via Architecture-as-Code. Powers BI dashboards and a data catalog using a portable, containerized stack with Airflow, Spark, and Redshift.
