@@ -60,11 +60,14 @@ I look for opportunities to build impactful products and solve complex problems.
 
 These are projects that combine three of the most powerful trends in modern software design: Architecture-as-Code (AaC), Diagrams-as-Code (using Mermaid), and Issue-Driven Development (IDD). By insisting that every architectural change starts as an issue with a clear Problem, Solution, and Trade-offs section, these projects are designed in a highly disciplined form of Evolutionary Architecture.
 
-*   **[Pulse Analytics](https://github.com/zhu-weijie/design-pulse-analytics)**
+*   **Design: [Pulse Analytics](https://github.com/zhu-weijie/design-pulse-analytics) Implementation: [Pulse Analytics](https://github.com/zhu-weijie/pulse-analytics)**
     * A modern data pipelines on AWS, designed via Architecture-as-Code. Powers BI dashboards and a data catalog using a portable, containerized stack with Airflow, Spark, and Redshift.
 
 *   **[Medical Claims System](https://github.com/zhu-weijie/design-medclaim-assure)**
     * System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
+
+*   **[Patient Notification System](https://github.com/zhu-weijie/design-patient-notification-system)**
+    * A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
 
 ### Other
 
