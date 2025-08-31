@@ -9,6 +9,9 @@ Throughout my career, I have successfully led Agile engineering teams and manage
 I look for opportunities to build impactful products and solve complex problems.
 
 <!-- blog starts -->
+* [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/) - Sun, 31 Aug 2025 00:00:00 +0000
+
+* [The Complete Model for Good System Design](https://zhu-weijie.github.io/posts/2025-08-31-the-complete-model-for-good-system-design/) - Sun, 31 Aug 2025 00:00:00 +0000
 <!-- blog ends -->
 
 <!-- recent_projects starts -->
