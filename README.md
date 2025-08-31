@@ -44,3 +44,5 @@ I look for opportunities to build impactful products and solve complex problems.
 </td>
 </tr>
 </table>
+
+<a href="https://github.com/zhu-weijie/zhu-weijie/actions"><img src="https://github.com/zhu-weijie/zhu-weijie/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a><a href="https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/">How this works</a>
