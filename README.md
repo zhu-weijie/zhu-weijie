@@ -36,6 +36,8 @@ I look for opportunities to build impactful products and solve complex problems.
 
 ### On My Blog
 <!-- blog starts -->
+* [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
+
 * [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/)
 
 * [The Complete Model for Good System Design](https://zhu-weijie.github.io/posts/2025-08-31-the-complete-model-for-good-system-design/)
