@@ -8,11 +8,39 @@ Throughout my career, I have successfully led Agile engineering teams and manage
 
 I look for opportunities to build impactful products and solve complex problems.
 
-<!-- blog starts -->
-* [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/) - Sun, 31 Aug 2025 00:00:00 +0000
+<table>
+<tr>
+<td valign="top" width="50%">
 
-* [The Complete Model for Good System Design](https://zhu-weijie.github.io/posts/2025-08-31-the-complete-model-for-good-system-design/) - Sun, 31 Aug 2025 00:00:00 +0000
+### Recent Projects
+<!-- recent_projects starts -->
+* [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
+
+* [design-inkwell-platform](https://github.com/zhu-weijie/design-inkwell-platform)<br/>🧮A modern platform for writers to publish and share their content, designed via Architecture-as-Code.
+
+* [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
+
+* [design-patient-notification-system](https://github.com/zhu-weijie/design-patient-notification-system)<br/>🧮A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
+
+* [design-medclaim-assure](https://github.com/zhu-weijie/design-medclaim-assure)<br/>🧮System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
+
+* [omni-stream](https://github.com/zhu-weijie/omni-stream)<br/>🧮A project demonstrating Unary, Server-Streaming, and Bidirectional gRPC patterns through a microservices backend.
+
+* [design-pulse-analytics](https://github.com/zhu-weijie/design-pulse-analytics)<br/>🧮A modern data platform on AWS, designed via Architecture-as-Code. Powers BI dashboards and a data catalog using a portable, containerized stack with Airflow, Spark, and Redshift.
+
+* [prompt-guard](https://github.com/zhu-weijie/prompt-guard)<br/>🧮A simple vulnerability scanner for Large Language Model (LLM) prompts to detect threats like prompt injection and data exfiltration.
+<!-- recent_projects ends -->
+
+</td>
+<td valign="top" width="50%">
+
+### On My Blog
+<!-- blog starts -->
+* [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/)
+
+* [The Complete Model for Good System Design](https://zhu-weijie.github.io/posts/2025-08-31-the-complete-model-for-good-system-design/)
 <!-- blog ends -->
 
-<!-- recent_projects starts -->
-<!-- recent_projects ends -->
+</td>
+</tr>
+</table>
