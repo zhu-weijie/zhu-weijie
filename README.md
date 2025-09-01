@@ -14,7 +14,7 @@ I look for opportunities to build impactful products and solve complex problems.
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮
+* [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
 
 * [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
 
@@ -36,6 +36,8 @@ I look for opportunities to build impactful products and solve complex problems.
 
 ### On My Blog
 <!-- blog starts -->
+* [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
+
 * [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
 
 * [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/)
