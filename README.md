@@ -25,10 +25,6 @@ I look for opportunities to build impactful products and solve complex problems.
 * [design-patient-notification-system](https://github.com/zhu-weijie/design-patient-notification-system)<br/>🧮A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
 
 * [design-medclaim-assure](https://github.com/zhu-weijie/design-medclaim-assure)<br/>🧮System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
-
-* [omni-stream](https://github.com/zhu-weijie/omni-stream)<br/>🧮A project demonstrating Unary, Server-Streaming, and Bidirectional gRPC patterns through a microservices backend.
-
-* [design-pulse-analytics](https://github.com/zhu-weijie/design-pulse-analytics)<br/>🧮A modern data platform on AWS, designed via Architecture-as-Code. Powers BI dashboards and a data catalog using a portable, containerized stack with Airflow, Spark, and Redshift.
 <!-- recent_projects ends -->
 
 </td>
