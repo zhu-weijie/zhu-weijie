@@ -32,8 +32,6 @@ I look for opportunities to build impactful products and solve complex problems.
 
 ### On My Blog
 <!-- blog starts -->
-* [Testing Mermaid Diagrams](https://zhu-weijie.github.io/posts/2025-09-10-mermaid-diagram-test/)
-
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
 * [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
