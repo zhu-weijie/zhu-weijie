@@ -7,10 +7,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-MAX_POSTS = 12
+MAX_POSTS = 18
 MAX_PROJECTS = 6
+MAX_DIAGRAMS = 18
 GITHUB_USERNAME = "zhu-weijie"
 BLOG_FEED_URL = "https://zhu-weijie.github.io/rss.xml"
+DIAGRAMS_FEED_URL = "https://zhu-weijie.github.io/diagrams/rss.xml"  # New feed URL
 
 SKIP_REPOS = {"zhu-weijie", "zhu-weijie.github.io"}
 
@@ -32,7 +34,18 @@ def fetch_blog_entries():
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+        }
+        for entry in entries
+    ]
+
+
+def fetch_diagram_entries():
+    """Fetches the most recent diagram entries from the feed."""
+    entries = feedparser.parse(DIAGRAMS_FEED_URL)["entries"]
+    return [
+        {
+            "title": entry["title"],
+            "url": entry["link"].split("#")[0],
         }
         for entry in entries
     ]
@@ -83,5 +96,11 @@ if __name__ == "__main__":
     )
     rewritten_readme = replace_chunk(rewritten_readme, "recent_projects", projects_md)
 
+    diagrams = fetch_diagram_entries()[:MAX_DIAGRAMS]
+    diagrams_md = "\n\n".join(
+        ["* [{title}]({url})".format(**diagram) for diagram in diagrams]
+    )
+    rewritten_readme = replace_chunk(rewritten_readme, "diagrams", diagrams_md)
+
     readme_path.write_text(rewritten_readme)
-    print("Successfully updated README with blog posts and projects.")
+    print("Successfully updated README with posts, projects, and diagrams.")
