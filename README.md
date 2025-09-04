@@ -1,16 +1,10 @@
-# Hi there, I'm Zhu Weijie 👋
+# Hi there, I'm Zhu Weijie
 
-I'm a **Senior Software Engineer** based in Singapore with over a decade of experience architecting and developing robust, scalable, and high-performance software solutions. 
-
-My core expertise lies in **Python** and **C++** for backend systems, API development, and full-stack applications. I'm passionate about leveraging modern technologies and best practices – including **microservices, cloud platforms (AWS/GCP), Docker, Kubernetes, CI/CD, and Agile methodologies** – to solve complex problems and deliver impactful products.
-
-Throughout my career, I have successfully led Agile engineering teams and managed the complete software development lifecycle, from architecting scalable systems to mentoring engineers and driving project delivery.
-
-I look for opportunities to build impactful products and solve complex problems.
+A seasoned Software Engineer based in Singapore with over a decade of experience in architecting and developing robust, scalable software solutions. My core expertise is in Python and C++ for backend systems and full-stack applications, leveraging modern technologies like microservices, AWS/GCP, Docker, and Kubernetes. With a proven track record of leading Agile teams through the entire software development lifecycle, I am dedicated to solving complex problems and delivering high-impact products.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### Recent Projects
 <!-- recent_projects starts -->
@@ -28,7 +22,7 @@ I look for opportunities to build impactful products and solve complex problems.
 <!-- recent_projects ends -->
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### On My Blog
 <!-- blog starts -->
@@ -40,6 +34,14 @@ I look for opportunities to build impactful products and solve complex problems.
 
 * [The Complete Model for Good System Design](https://zhu-weijie.github.io/posts/2025-08-31-the-complete-model-for-good-system-design/)
 <!-- blog ends -->
+
+</td>
+<td valign="top" width="33%">
+
+### Diagrams
+<!-- diagrams starts -->
+* [API Keys](https://zhu-weijie.github.io/posts/2025-09-04-api-keys/)
+<!-- diagrams ends -->
 
 </td>
 </tr>
