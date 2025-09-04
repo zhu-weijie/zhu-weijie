@@ -14,6 +14,8 @@ I look for opportunities to build impactful products and solve complex problems.
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [auth-odyssey](https://github.com/zhu-weijie/auth-odyssey)<br/>🧮A Python/FastAPI project demonstrating key authentication patterns: API Keys, JWT (with refresh tokens & RBAC), and OAuth 2.0.
+
 * [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
 
 * [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
@@ -23,8 +25,6 @@ I look for opportunities to build impactful products and solve complex problems.
 * [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
 
 * [design-patient-notification-system](https://github.com/zhu-weijie/design-patient-notification-system)<br/>🧮A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
-
-* [design-medclaim-assure](https://github.com/zhu-weijie/design-medclaim-assure)<br/>🧮System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
 <!-- recent_projects ends -->
 
 </td>
