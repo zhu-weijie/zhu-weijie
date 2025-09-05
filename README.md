@@ -52,6 +52,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [PACELC Theorem](https://zhu-weijie.github.io/posts/2025-09-05-pacelc-theorem/)
 
+* [OAuth 2.0](https://zhu-weijie.github.io/posts/2025-09-05-oauth-2.0/)
+
 * [Active-Active vs Active-Passive System](https://zhu-weijie.github.io/posts/2025-09-05-availability-patterns/)
 
 * [LangChain Integration Ecosystem](https://zhu-weijie.github.io/posts/2025-09-05-langchain-integration-ecosystem/)
