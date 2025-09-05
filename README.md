@@ -40,6 +40,14 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Timing Attack](https://zhu-weijie.github.io/posts/2025-09-05-timing-attack/)
+
+* [LangChain Integration Ecosystem](https://zhu-weijie.github.io/posts/2025-09-05-langchain-integration-ecosystem/)
+
+* [HTTP Response Code](https://zhu-weijie.github.io/posts/2025-09-05-http-response-code/)
+
+* [JWT](https://zhu-weijie.github.io/posts/2025-09-05-jwt/)
+
 * [API Keys](https://zhu-weijie.github.io/posts/2025-09-04-api-keys/)
 <!-- diagrams ends -->
 
