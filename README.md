@@ -40,23 +40,25 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [RDBMS Architecture](https://zhu-weijie.github.io/posts/2025-09-05-rdbmd/)
+
+* [Multileader vs Single-leader Replication](https://zhu-weijie.github.io/posts/2025-09-05-replica-patterns/)
+
 * [Timing Attack](https://zhu-weijie.github.io/posts/2025-09-05-timing-attack/)
+
+* [Database Management System](https://zhu-weijie.github.io/posts/2025-09-05-dbms/)
+
+* [Database Partitioning](https://zhu-weijie.github.io/posts/2025-09-05-partitioning/)
+
+* [PACELC Theorem](https://zhu-weijie.github.io/posts/2025-09-05-pacelc-theorem/)
 
 * [Active-Active vs Active-Passive System](https://zhu-weijie.github.io/posts/2025-09-05-availability-patterns/)
 
 * [LangChain Integration Ecosystem](https://zhu-weijie.github.io/posts/2025-09-05-langchain-integration-ecosystem/)
 
+* [ACID vs BASE](https://zhu-weijie.github.io/posts/2025-09-05-acid-vs-base/)
+
 * [HTTP Response Code](https://zhu-weijie.github.io/posts/2025-09-05-http-response-code/)
-
-* [Synchronous vs Asynchronous Communication](https://zhu-weijie.github.io/posts/2025-09-05-synchronous-vs-asynchronous/)
-
-* [Strong vs Eventual Consistency](https://zhu-weijie.github.io/posts/2025-09-05-consistency/)
-
-* [Sequential vs Parallel System](https://zhu-weijie.github.io/posts/2025-09-05-sequential-vs-parallel-system/)
-
-* [JWT](https://zhu-weijie.github.io/posts/2025-09-05-jwt/)
-
-* [API Keys](https://zhu-weijie.github.io/posts/2025-09-04-api-keys/)
 <!-- diagrams ends -->
 
 </td>
