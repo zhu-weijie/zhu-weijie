@@ -42,9 +42,17 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [Timing Attack](https://zhu-weijie.github.io/posts/2025-09-05-timing-attack/)
 
+* [Active-Active vs Active-Passive System](https://zhu-weijie.github.io/posts/2025-09-05-availability-patterns/)
+
 * [LangChain Integration Ecosystem](https://zhu-weijie.github.io/posts/2025-09-05-langchain-integration-ecosystem/)
 
 * [HTTP Response Code](https://zhu-weijie.github.io/posts/2025-09-05-http-response-code/)
+
+* [Synchronous vs Asynchronous Communication](https://zhu-weijie.github.io/posts/2025-09-05-synchronous-vs-asynchronous/)
+
+* [Strong vs Eventual Consistency](https://zhu-weijie.github.io/posts/2025-09-05-consistency/)
+
+* [Sequential vs Parallel System](https://zhu-weijie.github.io/posts/2025-09-05-sequential-vs-parallel-system/)
 
 * [JWT](https://zhu-weijie.github.io/posts/2025-09-05-jwt/)
 
