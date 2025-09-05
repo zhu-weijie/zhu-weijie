@@ -31,9 +31,10 @@ jobs:
           python build_readme.py
       - name: Commit and push if changed
         run: |-
-          git diff
           git config --global user.name "README-bot"
           git config --global user.email "actions@users.noreply.github.com"
+          # Pull the latest changes from the remote branch
+          git pull --rebase
           git add README.md
           git commit -m "Updated README content" || exit 0
           git push
