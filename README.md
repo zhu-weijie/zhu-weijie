@@ -59,6 +59,18 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [ACID vs BASE](https://zhu-weijie.github.io/posts/2025-09-05-acid-vs-base/)
 
 * [HTTP Response Code](https://zhu-weijie.github.io/posts/2025-09-05-http-response-code/)
+
+* [Synchronous vs Asynchronous Communication](https://zhu-weijie.github.io/posts/2025-09-05-synchronous-vs-asynchronous/)
+
+* [Strong vs Eventual Consistency](https://zhu-weijie.github.io/posts/2025-09-05-consistency/)
+
+* [Sequential vs Parallel System](https://zhu-weijie.github.io/posts/2025-09-05-sequential-vs-parallel-system/)
+
+* [Data Storage Format](https://zhu-weijie.github.io/posts/2025-09-05-data-storage-format/)
+
+* [JWT](https://zhu-weijie.github.io/posts/2025-09-05-jwt/)
+
+* [API Keys](https://zhu-weijie.github.io/posts/2025-09-04-api-keys/)
 <!-- diagrams ends -->
 
 </td>
