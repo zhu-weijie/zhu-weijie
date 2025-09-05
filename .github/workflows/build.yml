@@ -33,8 +33,7 @@ jobs:
         run: |-
           git config --global user.name "README-bot"
           git config --global user.email "actions@users.noreply.github.com"
-          # Pull the latest changes from the remote branch
-          git pull --rebase
           git add README.md
           git commit -m "Updated README content" || exit 0
+          git pull --rebase
           git push
