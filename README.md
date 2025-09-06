@@ -40,6 +40,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Database Selection](https://zhu-weijie.github.io/posts/2025-09-06-database-selection/)
+
 * [RDBMS Architecture](https://zhu-weijie.github.io/posts/2025-09-05-rdbmd/)
 
 * [Multileader vs Single-leader Replication](https://zhu-weijie.github.io/posts/2025-09-05-replica-patterns/)
