@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
+
 * [auth-odyssey](https://github.com/zhu-weijie/auth-odyssey)<br/>🧮A Python/FastAPI project demonstrating key authentication patterns: API Keys, JWT (with refresh tokens & RBAC), and OAuth 2.0.
 
 * [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
@@ -15,8 +17,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
 
 * [design-inkwell-platform](https://github.com/zhu-weijie/design-inkwell-platform)<br/>🧮A modern platform for writers to publish and share their content, designed via Architecture-as-Code.
-
-* [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
 
 * [design-patient-notification-system](https://github.com/zhu-weijie/design-patient-notification-system)<br/>🧮A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
 <!-- recent_projects ends -->
