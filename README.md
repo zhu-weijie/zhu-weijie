@@ -42,6 +42,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [Redis Deployment Architectures](https://zhu-weijie.github.io/posts/2025-09-07-redis-deployment/)
 
+* [Docker Engine Architecture](https://zhu-weijie.github.io/posts/2025-09-07-docker-engine/)
+
+* [Kubernetes Architecture](https://zhu-weijie.github.io/posts/2025-09-07-kubernetes-architecture/)
+
 * [MQTT](https://zhu-weijie.github.io/posts/2025-09-07-mqtt/)
 
 * [Web Real-Time Communication](https://zhu-weijie.github.io/posts/2025-09-07-web-rtc/)
@@ -60,21 +64,17 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Caching Mechanisms](https://zhu-weijie.github.io/posts/2025-09-07-caching-mechanisms/)
 
+* [Docker Ecosystem](https://zhu-weijie.github.io/posts/2025-09-07-docker-ecosystem/)
+
 * [Virtual Machine and Containerization](https://zhu-weijie.github.io/posts/2025-09-07-vm/)
 
 * [TCP](https://zhu-weijie.github.io/posts/2025-09-07-tcp/)
 
 * [OSI Model](https://zhu-weijie.github.io/posts/2025-09-07-osi-model/)
 
+* [Docker Lifecycle](https://zhu-weijie.github.io/posts/2025-09-07-docker-lifecycle/)
+
 * [Caching Strategies](https://zhu-weijie.github.io/posts/2025-09-06-caching-strategies/)
-
-* [Database Selection](https://zhu-weijie.github.io/posts/2025-09-06-database-selection/)
-
-* [RDBMS Architecture](https://zhu-weijie.github.io/posts/2025-09-05-rdbmd/)
-
-* [Multileader vs Single-leader Replication](https://zhu-weijie.github.io/posts/2025-09-05-replica-patterns/)
-
-* [Timing Attack](https://zhu-weijie.github.io/posts/2025-09-05-timing-attack/)
 <!-- diagrams ends -->
 
 </td>
