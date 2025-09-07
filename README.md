@@ -40,6 +40,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Caching Strategies](https://zhu-weijie.github.io/posts/2025-09-06-caching-strategies/)
+
 * [Database Selection](https://zhu-weijie.github.io/posts/2025-09-06-database-selection/)
 
 * [RDBMS Architecture](https://zhu-weijie.github.io/posts/2025-09-05-rdbmd/)
@@ -73,8 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Data Storage Format](https://zhu-weijie.github.io/posts/2025-09-05-data-storage-format/)
 
 * [JWT](https://zhu-weijie.github.io/posts/2025-09-05-jwt/)
-
-* [API Keys](https://zhu-weijie.github.io/posts/2025-09-04-api-keys/)
 <!-- diagrams ends -->
 
 </td>
