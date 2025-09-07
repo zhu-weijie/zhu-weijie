@@ -42,9 +42,25 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [Redis Deployment Architectures](https://zhu-weijie.github.io/posts/2025-09-07-redis-deployment/)
 
+* [MQTT](https://zhu-weijie.github.io/posts/2025-09-07-mqtt/)
+
+* [WebSocket](https://zhu-weijie.github.io/posts/2025-09-07-websockets/)
+
+* [Stateful vs Stateless Load Balancer](https://zhu-weijie.github.io/posts/2025-09-07-stateless-load-balancer/)
+
+* [RPC](https://zhu-weijie.github.io/posts/2025-09-07-rpc/)
+
+* [Load Balancer](https://zhu-weijie.github.io/posts/2025-09-07-load-balancer/)
+
+* [SMTP](https://zhu-weijie.github.io/posts/2025-09-07-smtp/)
+
 * [Networking Components](https://zhu-weijie.github.io/posts/2025-09-07-networking-components/)
 
 * [Caching Mechanisms](https://zhu-weijie.github.io/posts/2025-09-07-caching-mechanisms/)
+
+* [TCP](https://zhu-weijie.github.io/posts/2025-09-07-tcp/)
+
+* [OSI Model](https://zhu-weijie.github.io/posts/2025-09-07-osi-model/)
 
 * [Caching Strategies](https://zhu-weijie.github.io/posts/2025-09-06-caching-strategies/)
 
@@ -59,22 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Database Management System](https://zhu-weijie.github.io/posts/2025-09-05-dbms/)
 
 * [Database Partitioning](https://zhu-weijie.github.io/posts/2025-09-05-partitioning/)
-
-* [PACELC Theorem](https://zhu-weijie.github.io/posts/2025-09-05-pacelc-theorem/)
-
-* [OAuth 2.0](https://zhu-weijie.github.io/posts/2025-09-05-oauth-2.0/)
-
-* [Active-Active vs Active-Passive System](https://zhu-weijie.github.io/posts/2025-09-05-availability-patterns/)
-
-* [LangChain Integration Ecosystem](https://zhu-weijie.github.io/posts/2025-09-05-langchain-integration-ecosystem/)
-
-* [ACID vs BASE](https://zhu-weijie.github.io/posts/2025-09-05-acid-vs-base/)
-
-* [HTTP Response Code](https://zhu-weijie.github.io/posts/2025-09-05-http-response-code/)
-
-* [Synchronous vs Asynchronous Communication](https://zhu-weijie.github.io/posts/2025-09-05-synchronous-vs-asynchronous/)
-
-* [Strong vs Eventual Consistency](https://zhu-weijie.github.io/posts/2025-09-05-consistency/)
 <!-- diagrams ends -->
 
 </td>
