@@ -8,11 +8,11 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
+
 * [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
 
 * [auth-odyssey](https://github.com/zhu-weijie/auth-odyssey)<br/>🧮A Python/FastAPI project demonstrating key authentication patterns: API Keys, JWT (with refresh tokens & RBAC), and OAuth 2.0.
-
-* [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
 
 * [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
 
