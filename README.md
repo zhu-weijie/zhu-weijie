@@ -44,6 +44,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [MQTT](https://zhu-weijie.github.io/posts/2025-09-07-mqtt/)
 
+* [Web Real-Time Communication](https://zhu-weijie.github.io/posts/2025-09-07-web-rtc/)
+
 * [WebSocket](https://zhu-weijie.github.io/posts/2025-09-07-websockets/)
 
 * [Stateful vs Stateless Load Balancer](https://zhu-weijie.github.io/posts/2025-09-07-stateless-load-balancer/)
@@ -58,6 +60,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Caching Mechanisms](https://zhu-weijie.github.io/posts/2025-09-07-caching-mechanisms/)
 
+* [Virtual Machine and Containerization](https://zhu-weijie.github.io/posts/2025-09-07-vm/)
+
 * [TCP](https://zhu-weijie.github.io/posts/2025-09-07-tcp/)
 
 * [OSI Model](https://zhu-weijie.github.io/posts/2025-09-07-osi-model/)
@@ -71,10 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Multileader vs Single-leader Replication](https://zhu-weijie.github.io/posts/2025-09-05-replica-patterns/)
 
 * [Timing Attack](https://zhu-weijie.github.io/posts/2025-09-05-timing-attack/)
-
-* [Database Management System](https://zhu-weijie.github.io/posts/2025-09-05-dbms/)
-
-* [Database Partitioning](https://zhu-weijie.github.io/posts/2025-09-05-partitioning/)
 <!-- diagrams ends -->
 
 </td>
