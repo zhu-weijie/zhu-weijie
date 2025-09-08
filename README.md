@@ -40,6 +40,18 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Message Broker Architecture](https://zhu-weijie.github.io/posts/2025-09-08-message-broker/)
+
+* [Solution Architecture](https://zhu-weijie.github.io/posts/2025-09-08-architecture/)
+
+* [Gitflow Branching Strategy](https://zhu-weijie.github.io/posts/2025-09-08-gitflow-branching-strategy/)
+
+* [Data Lake Architecture](https://zhu-weijie.github.io/posts/2025-09-08-data-lake-architecture/)
+
+* [Lambda Architecture](https://zhu-weijie.github.io/posts/2025-09-08-lambda-architecture/)
+
+* [Kappa Architecture](https://zhu-weijie.github.io/posts/2025-09-08-kappa-architecture/)
+
 * [Redis Deployment Architectures](https://zhu-weijie.github.io/posts/2025-09-07-redis-deployment/)
 
 * [Docker Engine Architecture](https://zhu-weijie.github.io/posts/2025-09-07-docker-engine/)
@@ -63,18 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Networking Components](https://zhu-weijie.github.io/posts/2025-09-07-networking-components/)
 
 * [Caching Mechanisms](https://zhu-weijie.github.io/posts/2025-09-07-caching-mechanisms/)
-
-* [Docker Ecosystem](https://zhu-weijie.github.io/posts/2025-09-07-docker-ecosystem/)
-
-* [Virtual Machine and Containerization](https://zhu-weijie.github.io/posts/2025-09-07-vm/)
-
-* [TCP](https://zhu-weijie.github.io/posts/2025-09-07-tcp/)
-
-* [OSI Model](https://zhu-weijie.github.io/posts/2025-09-07-osi-model/)
-
-* [Docker Lifecycle](https://zhu-weijie.github.io/posts/2025-09-07-docker-lifecycle/)
-
-* [Caching Strategies](https://zhu-weijie.github.io/posts/2025-09-06-caching-strategies/)
 <!-- diagrams ends -->
 
 </td>
