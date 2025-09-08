@@ -46,6 +46,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Gitflow Branching Strategy](https://zhu-weijie.github.io/posts/2025-09-08-gitflow-branching-strategy/)
 
+* [Iterating LLM Responses for Better Accuracy](https://zhu-weijie.github.io/posts/2025-09-08-iterating-llm-responses/)
+
 * [HDFS Architecture](https://zhu-weijie.github.io/posts/2025-09-08-hdfs/)
 
 * [Data Lake Architecture](https://zhu-weijie.github.io/posts/2025-09-08-data-lake-architecture/)
@@ -55,6 +57,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Lambda Architecture](https://zhu-weijie.github.io/posts/2025-09-08-lambda-architecture/)
 
 * [Apache Airflow Architecture](https://zhu-weijie.github.io/posts/2025-09-08-airflow/)
+
+* [SIFT to evaluate resources and misinformation](https://zhu-weijie.github.io/posts/2025-09-08-sift/)
 
 * [Kappa Architecture](https://zhu-weijie.github.io/posts/2025-09-08-kappa-architecture/)
 
@@ -71,10 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [WebSocket](https://zhu-weijie.github.io/posts/2025-09-07-websockets/)
 
 * [Stateful vs Stateless Load Balancer](https://zhu-weijie.github.io/posts/2025-09-07-stateless-load-balancer/)
-
-* [RPC](https://zhu-weijie.github.io/posts/2025-09-07-rpc/)
-
-* [Load Balancer](https://zhu-weijie.github.io/posts/2025-09-07-load-balancer/)
 <!-- diagrams ends -->
 
 </td>
