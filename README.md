@@ -46,9 +46,15 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Gitflow Branching Strategy](https://zhu-weijie.github.io/posts/2025-09-08-gitflow-branching-strategy/)
 
+* [HDFS Architecture](https://zhu-weijie.github.io/posts/2025-09-08-hdfs/)
+
 * [Data Lake Architecture](https://zhu-weijie.github.io/posts/2025-09-08-data-lake-architecture/)
 
+* [Kafka Architecture](https://zhu-weijie.github.io/posts/2025-09-08-kafka/)
+
 * [Lambda Architecture](https://zhu-weijie.github.io/posts/2025-09-08-lambda-architecture/)
+
+* [Apache Airflow Architecture](https://zhu-weijie.github.io/posts/2025-09-08-airflow/)
 
 * [Kappa Architecture](https://zhu-weijie.github.io/posts/2025-09-08-kappa-architecture/)
 
@@ -69,12 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [RPC](https://zhu-weijie.github.io/posts/2025-09-07-rpc/)
 
 * [Load Balancer](https://zhu-weijie.github.io/posts/2025-09-07-load-balancer/)
-
-* [SMTP](https://zhu-weijie.github.io/posts/2025-09-07-smtp/)
-
-* [Networking Components](https://zhu-weijie.github.io/posts/2025-09-07-networking-components/)
-
-* [Caching Mechanisms](https://zhu-weijie.github.io/posts/2025-09-07-caching-mechanisms/)
 <!-- diagrams ends -->
 
 </td>
