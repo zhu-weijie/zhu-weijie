@@ -40,6 +40,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [You Need to Be Bored](https://zhu-weijie.github.io/posts/2025-09-09-embracing-boredom/)
+
 * [Message Broker Architecture](https://zhu-weijie.github.io/posts/2025-09-08-message-broker/)
 
 * [Solution Architecture](https://zhu-weijie.github.io/posts/2025-09-08-architecture/)
@@ -73,8 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Web Real-Time Communication](https://zhu-weijie.github.io/posts/2025-09-07-web-rtc/)
 
 * [WebSocket](https://zhu-weijie.github.io/posts/2025-09-07-websockets/)
-
-* [Stateful vs Stateless Load Balancer](https://zhu-weijie.github.io/posts/2025-09-07-stateless-load-balancer/)
 <!-- diagrams ends -->
 
 </td>
