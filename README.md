@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [regitrack](https://github.com/zhu-weijie/regitrack)<br/>🧮Full-stack vehicle registration app (React, Node.js, Docker) deployed on AWS Fargate via Terraform and CI/CD.
+
 * [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
 
 * [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
@@ -17,8 +19,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
 
 * [design-inkwell-platform](https://github.com/zhu-weijie/design-inkwell-platform)<br/>🧮A modern platform for writers to publish and share their content, designed via Architecture-as-Code.
-
-* [design-patient-notification-system](https://github.com/zhu-weijie/design-patient-notification-system)<br/>🧮A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
 <!-- recent_projects ends -->
 
 </td>
