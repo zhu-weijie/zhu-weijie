@@ -28,6 +28,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- blog starts -->
 * [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
 
+* [Building a Better LLM Reasoner](https://zhu-weijie.github.io/posts/2025-09-10-llm-reasoner/)
+
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
 * [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
@@ -49,6 +51,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Improving RAG Quality and Accuracy](https://zhu-weijie.github.io/posts/2025-09-10-improving-rag/)
 
 * [Object-Oriented Programming](https://zhu-weijie.github.io/posts/2025-09-10-oop/)
+
+* [Fantastic Four of System Design](https://zhu-weijie.github.io/posts/2025-09-10-fantastic-four/)
 
 * [Merge vs Rebase vs Squash](https://zhu-weijie.github.io/posts/2025-09-10-merge-rebase/)
 
@@ -75,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Microservice Best Practices](https://zhu-weijie.github.io/posts/2025-09-10-microservice-best-practices/)
 
 * [API vs SDK](https://zhu-weijie.github.io/posts/2025-09-10-api-vs-sdk/)
-
-* [You Need to Be Bored](https://zhu-weijie.github.io/posts/2025-09-09-embracing-boredom/)
 <!-- diagrams ends -->
 
 </td>
