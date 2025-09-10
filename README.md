@@ -40,6 +40,16 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [RESTful API](https://zhu-weijie.github.io/posts/2025-09-10-rest-api/)
+
+* [REST API vs GraphQL](https://zhu-weijie.github.io/posts/2025-09-10-rest-vs-graphql/)
+
+* [Push Notification System](https://zhu-weijie.github.io/posts/2025-09-10-push-notification-system/)
+
+* [Data Pipeline](https://zhu-weijie.github.io/posts/2025-09-10-data-pipeline/)
+
+* [API vs SDK](https://zhu-weijie.github.io/posts/2025-09-10-api-vs-sdk/)
+
 * [You Need to Be Bored](https://zhu-weijie.github.io/posts/2025-09-09-embracing-boredom/)
 
 * [Message Broker Architecture](https://zhu-weijie.github.io/posts/2025-09-08-message-broker/)
@@ -65,16 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Kappa Architecture](https://zhu-weijie.github.io/posts/2025-09-08-kappa-architecture/)
 
 * [Redis Deployment Architectures](https://zhu-weijie.github.io/posts/2025-09-07-redis-deployment/)
-
-* [Docker Engine Architecture](https://zhu-weijie.github.io/posts/2025-09-07-docker-engine/)
-
-* [Kubernetes Architecture](https://zhu-weijie.github.io/posts/2025-09-07-kubernetes-architecture/)
-
-* [MQTT](https://zhu-weijie.github.io/posts/2025-09-07-mqtt/)
-
-* [Web Real-Time Communication](https://zhu-weijie.github.io/posts/2025-09-07-web-rtc/)
-
-* [WebSocket](https://zhu-weijie.github.io/posts/2025-09-07-websockets/)
 <!-- diagrams ends -->
 
 </td>
