@@ -42,11 +42,15 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [RESTful API](https://zhu-weijie.github.io/posts/2025-09-10-rest-api/)
 
+* [Improving RAG Quality and Accuracy](https://zhu-weijie.github.io/posts/2025-09-10-improving-rag/)
+
 * [Object-Oriented Programming](https://zhu-weijie.github.io/posts/2025-09-10-oop/)
 
 * [Merge vs Rebase vs Squash](https://zhu-weijie.github.io/posts/2025-09-10-merge-rebase/)
 
 * [REST API vs GraphQL](https://zhu-weijie.github.io/posts/2025-09-10-rest-vs-graphql/)
+
+* [Idea to Execution](https://zhu-weijie.github.io/posts/2025-09-10-idea-to-execution/)
 
 * [GitOps Workflow](https://zhu-weijie.github.io/posts/2025-09-10-gitops-workflow/)
 
@@ -60,6 +64,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Data Pipeline](https://zhu-weijie.github.io/posts/2025-09-10-data-pipeline/)
 
+* [LLM](https://zhu-weijie.github.io/posts/2025-09-10-llm/)
+
 * [Microservice Best Practices](https://zhu-weijie.github.io/posts/2025-09-10-microservice-best-practices/)
 
 * [API vs SDK](https://zhu-weijie.github.io/posts/2025-09-10-api-vs-sdk/)
@@ -69,12 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Message Broker Architecture](https://zhu-weijie.github.io/posts/2025-09-08-message-broker/)
 
 * [Solution Architecture](https://zhu-weijie.github.io/posts/2025-09-08-architecture/)
-
-* [Gitflow Branching Strategy](https://zhu-weijie.github.io/posts/2025-09-08-gitflow-branching-strategy/)
-
-* [Iterating LLM Responses for Better Accuracy](https://zhu-weijie.github.io/posts/2025-09-08-iterating-llm-responses/)
-
-* [HDFS Architecture](https://zhu-weijie.github.io/posts/2025-09-08-hdfs/)
 <!-- diagrams ends -->
 
 </td>
