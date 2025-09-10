@@ -26,6 +26,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### On My Blog
 <!-- blog starts -->
+* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
+
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
 * [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
@@ -41,6 +43,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 ### Diagrams
 <!-- diagrams starts -->
 * [RESTful API](https://zhu-weijie.github.io/posts/2025-09-10-rest-api/)
+
+* [GitHub Actions vs Jenkins](https://zhu-weijie.github.io/posts/2025-09-10-github-actions-vs-jenkins/)
 
 * [Improving RAG Quality and Accuracy](https://zhu-weijie.github.io/posts/2025-09-10-improving-rag/)
 
@@ -58,6 +62,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Top Load Balancer Use Cases](https://zhu-weijie.github.io/posts/2025-09-10-load-balancers/)
 
+* [SOLID Principles](https://zhu-weijie.github.io/posts/2025-09-10-solid/)
+
 * [Push Notification System](https://zhu-weijie.github.io/posts/2025-09-10-push-notification-system/)
 
 * [Programming Languages](https://zhu-weijie.github.io/posts/2025-09-10-languages/)
@@ -71,10 +77,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [API vs SDK](https://zhu-weijie.github.io/posts/2025-09-10-api-vs-sdk/)
 
 * [You Need to Be Bored](https://zhu-weijie.github.io/posts/2025-09-09-embracing-boredom/)
-
-* [Message Broker Architecture](https://zhu-weijie.github.io/posts/2025-09-08-message-broker/)
-
-* [Solution Architecture](https://zhu-weijie.github.io/posts/2025-09-08-architecture/)
 <!-- diagrams ends -->
 
 </td>
