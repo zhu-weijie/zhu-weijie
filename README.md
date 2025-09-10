@@ -42,11 +42,25 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [RESTful API](https://zhu-weijie.github.io/posts/2025-09-10-rest-api/)
 
+* [Object-Oriented Programming](https://zhu-weijie.github.io/posts/2025-09-10-oop/)
+
+* [Merge vs Rebase vs Squash](https://zhu-weijie.github.io/posts/2025-09-10-merge-rebase/)
+
 * [REST API vs GraphQL](https://zhu-weijie.github.io/posts/2025-09-10-rest-vs-graphql/)
+
+* [GitOps Workflow](https://zhu-weijie.github.io/posts/2025-09-10-gitops-workflow/)
+
+* [gRPC](https://zhu-weijie.github.io/posts/2025-09-10-grpc/)
+
+* [Top Load Balancer Use Cases](https://zhu-weijie.github.io/posts/2025-09-10-load-balancers/)
 
 * [Push Notification System](https://zhu-weijie.github.io/posts/2025-09-10-push-notification-system/)
 
+* [Programming Languages](https://zhu-weijie.github.io/posts/2025-09-10-languages/)
+
 * [Data Pipeline](https://zhu-weijie.github.io/posts/2025-09-10-data-pipeline/)
+
+* [Microservice Best Practices](https://zhu-weijie.github.io/posts/2025-09-10-microservice-best-practices/)
 
 * [API vs SDK](https://zhu-weijie.github.io/posts/2025-09-10-api-vs-sdk/)
 
@@ -61,20 +75,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Iterating LLM Responses for Better Accuracy](https://zhu-weijie.github.io/posts/2025-09-08-iterating-llm-responses/)
 
 * [HDFS Architecture](https://zhu-weijie.github.io/posts/2025-09-08-hdfs/)
-
-* [Data Lake Architecture](https://zhu-weijie.github.io/posts/2025-09-08-data-lake-architecture/)
-
-* [Kafka Architecture](https://zhu-weijie.github.io/posts/2025-09-08-kafka/)
-
-* [Lambda Architecture](https://zhu-weijie.github.io/posts/2025-09-08-lambda-architecture/)
-
-* [Apache Airflow Architecture](https://zhu-weijie.github.io/posts/2025-09-08-airflow/)
-
-* [SIFT to evaluate resources and misinformation](https://zhu-weijie.github.io/posts/2025-09-08-sift/)
-
-* [Kappa Architecture](https://zhu-weijie.github.io/posts/2025-09-08-kappa-architecture/)
-
-* [Redis Deployment Architectures](https://zhu-weijie.github.io/posts/2025-09-07-redis-deployment/)
 <!-- diagrams ends -->
 
 </td>
