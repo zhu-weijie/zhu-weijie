@@ -44,6 +44,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Reduce Latency](https://zhu-weijie.github.io/posts/2025-09-11-reduce-latency/)
+
+* [Defeating Nondeterminism in LLM Inference](https://zhu-weijie.github.io/posts/2025-09-11-non-determinism/)
+
 * [RESTful API](https://zhu-weijie.github.io/posts/2025-09-10-rest-api/)
 
 * [GitHub Actions vs Jenkins](https://zhu-weijie.github.io/posts/2025-09-10-github-actions-vs-jenkins/)
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Data Pipeline](https://zhu-weijie.github.io/posts/2025-09-10-data-pipeline/)
 
 * [LLM](https://zhu-weijie.github.io/posts/2025-09-10-llm/)
-
-* [Microservice Best Practices](https://zhu-weijie.github.io/posts/2025-09-10-microservice-best-practices/)
-
-* [API vs SDK](https://zhu-weijie.github.io/posts/2025-09-10-api-vs-sdk/)
 <!-- diagrams ends -->
 
 </td>
