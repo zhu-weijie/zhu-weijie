@@ -26,6 +26,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### On My Blog
 <!-- blog starts -->
+* [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
+
 * [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
 
 * [Building a Better LLM Reasoner](https://zhu-weijie.github.io/posts/2025-09-10-llm-reasoner/)
@@ -44,6 +46,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Brainstorming](https://zhu-weijie.github.io/posts/2025-09-12-brainstorming/)
+
 * [LangChain's Solutions](https://zhu-weijie.github.io/posts/2025-09-12-langchain/)
 
 * [Reduce Latency](https://zhu-weijie.github.io/posts/2025-09-11-reduce-latency/)
@@ -77,8 +81,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Push Notification System](https://zhu-weijie.github.io/posts/2025-09-10-push-notification-system/)
 
 * [Programming Languages](https://zhu-weijie.github.io/posts/2025-09-10-languages/)
-
-* [Data Pipeline](https://zhu-weijie.github.io/posts/2025-09-10-data-pipeline/)
 <!-- diagrams ends -->
 
 </td>
