@@ -44,6 +44,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [LangChain's Solutions](https://zhu-weijie.github.io/posts/2025-09-12-langchain/)
+
 * [Reduce Latency](https://zhu-weijie.github.io/posts/2025-09-11-reduce-latency/)
 
 * [Defeating Nondeterminism in LLM Inference](https://zhu-weijie.github.io/posts/2025-09-11-non-determinism/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Programming Languages](https://zhu-weijie.github.io/posts/2025-09-10-languages/)
 
 * [Data Pipeline](https://zhu-weijie.github.io/posts/2025-09-10-data-pipeline/)
-
-* [LLM](https://zhu-weijie.github.io/posts/2025-09-10-llm/)
 <!-- diagrams ends -->
 
 </td>
