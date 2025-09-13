@@ -12,7 +12,7 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
 
-* [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
+* [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮A food delivery data platform.
 
 * [auth-odyssey](https://github.com/zhu-weijie/auth-odyssey)<br/>🧮A Python/FastAPI project demonstrating key authentication patterns: API Keys, JWT (with refresh tokens & RBAC), and OAuth 2.0.
 
