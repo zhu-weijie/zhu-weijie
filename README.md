@@ -8,7 +8,7 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮
+* [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
 
 * [regitrack](https://github.com/zhu-weijie/regitrack)<br/>🧮Full-stack vehicle registration app (React, Node.js, Docker) deployed on AWS Fargate via Terraform and CI/CD.
 
