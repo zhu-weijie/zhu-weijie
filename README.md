@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮
+
 * [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
 
 * [regitrack](https://github.com/zhu-weijie/regitrack)<br/>🧮Full-stack vehicle registration app (React, Node.js, Docker) deployed on AWS Fargate via Terraform and CI/CD.
@@ -17,8 +19,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮A food delivery data platform.
 
 * [auth-odyssey](https://github.com/zhu-weijie/auth-odyssey)<br/>🧮A Python/FastAPI project demonstrating key authentication patterns: API Keys, JWT (with refresh tokens & RBAC), and OAuth 2.0.
-
-* [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
 <!-- recent_projects ends -->
 
 </td>
@@ -46,6 +46,12 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [LangGraph](https://zhu-weijie.github.io/posts/2025-09-16-langgraph/)
+
+* [Foward Deployed Engineering](https://zhu-weijie.github.io/posts/2025-09-16-fde/)
+
+* [Model Context Protocol](https://zhu-weijie.github.io/posts/2025-09-16-mcp/)
+
 * [Brainstorming](https://zhu-weijie.github.io/posts/2025-09-12-brainstorming/)
 
 * [LangChain's Solutions](https://zhu-weijie.github.io/posts/2025-09-12-langchain/)
@@ -75,12 +81,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [gRPC](https://zhu-weijie.github.io/posts/2025-09-10-grpc/)
 
 * [Top Load Balancer Use Cases](https://zhu-weijie.github.io/posts/2025-09-10-load-balancers/)
-
-* [SOLID Principles](https://zhu-weijie.github.io/posts/2025-09-10-solid/)
-
-* [Push Notification System](https://zhu-weijie.github.io/posts/2025-09-10-push-notification-system/)
-
-* [Programming Languages](https://zhu-weijie.github.io/posts/2025-09-10-languages/)
 <!-- diagrams ends -->
 
 </td>
