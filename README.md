@@ -52,6 +52,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Model Context Protocol](https://zhu-weijie.github.io/posts/2025-09-16-mcp/)
 
+* [Multi-Agent Research System](https://zhu-weijie.github.io/posts/2025-09-16-multi-agent-research-system/)
+
 * [Brainstorming](https://zhu-weijie.github.io/posts/2025-09-12-brainstorming/)
 
 * [LangChain's Solutions](https://zhu-weijie.github.io/posts/2025-09-12-langchain/)
@@ -79,8 +81,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [GitOps Workflow](https://zhu-weijie.github.io/posts/2025-09-10-gitops-workflow/)
 
 * [gRPC](https://zhu-weijie.github.io/posts/2025-09-10-grpc/)
-
-* [Top Load Balancer Use Cases](https://zhu-weijie.github.io/posts/2025-09-10-load-balancers/)
 <!-- diagrams ends -->
 
 </td>
