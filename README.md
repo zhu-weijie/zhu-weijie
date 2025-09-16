@@ -8,7 +8,7 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮
+* [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
 
 * [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
 
