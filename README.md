@@ -8,9 +8,9 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
-
 * [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
+
+* [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
 
 * [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
 
