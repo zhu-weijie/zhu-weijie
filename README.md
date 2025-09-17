@@ -26,6 +26,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### On My Blog
 <!-- blog starts -->
+* [Engineering Goals for High Performance](https://zhu-weijie.github.io/posts/2025-09-17-high-performance/)
+
 * [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
 
 * [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
@@ -46,6 +48,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Claude Memory](https://zhu-weijie.github.io/posts/2025-09-17-claude-memory/)
+
 * [ChatGPT's Memory](https://zhu-weijie.github.io/posts/2025-09-17-chatapt-memory/)
 
 * [LangGraph](https://zhu-weijie.github.io/posts/2025-09-16-langgraph/)
@@ -79,8 +83,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [REST API vs GraphQL](https://zhu-weijie.github.io/posts/2025-09-10-rest-vs-graphql/)
 
 * [Idea to Execution](https://zhu-weijie.github.io/posts/2025-09-10-idea-to-execution/)
-
-* [GitOps Workflow](https://zhu-weijie.github.io/posts/2025-09-10-gitops-workflow/)
 <!-- diagrams ends -->
 
 </td>
