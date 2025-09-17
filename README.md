@@ -46,6 +46,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [ChatGPT's Memory](https://zhu-weijie.github.io/posts/2025-09-17-chatapt-memory/)
+
 * [LangGraph](https://zhu-weijie.github.io/posts/2025-09-16-langgraph/)
 
 * [Foward Deployed Engineering](https://zhu-weijie.github.io/posts/2025-09-16-fde/)
@@ -79,8 +81,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Idea to Execution](https://zhu-weijie.github.io/posts/2025-09-10-idea-to-execution/)
 
 * [GitOps Workflow](https://zhu-weijie.github.io/posts/2025-09-10-gitops-workflow/)
-
-* [gRPC](https://zhu-weijie.github.io/posts/2025-09-10-grpc/)
 <!-- diagrams ends -->
 
 </td>
