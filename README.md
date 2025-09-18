@@ -48,6 +48,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Python Profiling](https://zhu-weijie.github.io/posts/2025-09-18-python-profiling/)
+
+* [unittest vs pytest](https://zhu-weijie.github.io/posts/2025-09-18-unittest-pytest/)
+
 * [Claude Memory](https://zhu-weijie.github.io/posts/2025-09-17-claude-memory/)
 
 * [ChatGPT's Memory](https://zhu-weijie.github.io/posts/2025-09-17-chatapt-memory/)
@@ -79,10 +83,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Fantastic Four of System Design](https://zhu-weijie.github.io/posts/2025-09-10-fantastic-four/)
 
 * [Merge vs Rebase vs Squash](https://zhu-weijie.github.io/posts/2025-09-10-merge-rebase/)
-
-* [REST API vs GraphQL](https://zhu-weijie.github.io/posts/2025-09-10-rest-vs-graphql/)
-
-* [Idea to Execution](https://zhu-weijie.github.io/posts/2025-09-10-idea-to-execution/)
 <!-- diagrams ends -->
 
 </td>
