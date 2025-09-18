@@ -8,7 +8,7 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮
+* [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮High-performance, scalable, and resilient service for LLM inference, designed with an Architecture-as-Code approach.
 
 * [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
 
