@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮
+
 * [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
 
 * [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
@@ -17,8 +19,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [regitrack](https://github.com/zhu-weijie/regitrack)<br/>🧮Full-stack vehicle registration app (React, Node.js, Docker) deployed on AWS Fargate via Terraform and CI/CD.
 
 * [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
-
-* [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮A food delivery data platform.
 <!-- recent_projects ends -->
 
 </td>
