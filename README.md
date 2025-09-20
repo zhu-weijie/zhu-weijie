@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [fincore-payments](https://github.com/zhu-weijie/fincore-payments)<br/>🧮A robust, multi-provider payment gateway designed to abstract and simplify payment processing, built with a focus on reliability and security.
+
 * [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
 
 * [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮High-performance, scalable, and resilient service for LLM inference, designed with an Architecture-as-Code approach.
@@ -17,8 +19,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
 
 * [regitrack](https://github.com/zhu-weijie/regitrack)<br/>🧮Full-stack vehicle registration app (React, Node.js, Docker) deployed on AWS Fargate via Terraform and CI/CD.
-
-* [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
 <!-- recent_projects ends -->
 
 </td>
