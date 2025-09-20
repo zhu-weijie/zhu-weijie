@@ -48,6 +48,16 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Python Debugging](https://zhu-weijie.github.io/posts/2025-09-20-debugging/)
+
+* [Troubleshooting Slow Database Requests](https://zhu-weijie.github.io/posts/2025-09-20-slow-database-request/)
+
+* [Django vs Flask vs FastAPI](https://zhu-weijie.github.io/posts/2025-09-20-django-flask-fastapi/)
+
+* [Python Module vs Command](https://zhu-weijie.github.io/posts/2025-09-20-module-vs-command/)
+
+* [Database Partitioning vs Sharding](https://zhu-weijie.github.io/posts/2025-09-20-sharding-vs-partitioning/)
+
 * [Change Data Capture](https://zhu-weijie.github.io/posts/2025-09-18-cdc/)
 
 * [Python Profiling](https://zhu-weijie.github.io/posts/2025-09-18-python-profiling/)
@@ -73,16 +83,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Reduce Latency](https://zhu-weijie.github.io/posts/2025-09-11-reduce-latency/)
 
 * [Defeating Nondeterminism in LLM Inference](https://zhu-weijie.github.io/posts/2025-09-11-non-determinism/)
-
-* [RESTful API](https://zhu-weijie.github.io/posts/2025-09-10-rest-api/)
-
-* [GitHub Actions vs Jenkins](https://zhu-weijie.github.io/posts/2025-09-10-github-actions-vs-jenkins/)
-
-* [Improving RAG Quality and Accuracy](https://zhu-weijie.github.io/posts/2025-09-10-improving-rag/)
-
-* [Object-Oriented Programming](https://zhu-weijie.github.io/posts/2025-09-10-oop/)
-
-* [Fantastic Four of System Design](https://zhu-weijie.github.io/posts/2025-09-10-fantastic-four/)
 <!-- diagrams ends -->
 
 </td>
