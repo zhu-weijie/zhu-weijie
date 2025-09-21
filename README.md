@@ -46,6 +46,12 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [RabbitMQ Architecture](https://zhu-weijie.github.io/posts/2025-09-21-rabbitmq/)
+
+* [REST vs gRPC](https://zhu-weijie.github.io/posts/2025-09-21-rest-vs-grpc/)
+
+* [Agent Development Kit](https://zhu-weijie.github.io/posts/2025-09-21-adk/)
+
 * [Python Debugging](https://zhu-weijie.github.io/posts/2025-09-20-debugging/)
 
 * [Troubleshooting Slow Database Requests](https://zhu-weijie.github.io/posts/2025-09-20-slow-database-request/)
@@ -79,12 +85,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [LangChain's Solutions](https://zhu-weijie.github.io/posts/2025-09-12-langchain/)
 
 * [Reduce Latency](https://zhu-weijie.github.io/posts/2025-09-11-reduce-latency/)
-
-* [Defeating Nondeterminism in LLM Inference](https://zhu-weijie.github.io/posts/2025-09-11-non-determinism/)
-
-* [RESTful API](https://zhu-weijie.github.io/posts/2025-09-10-rest-api/)
-
-* [GitHub Actions vs Jenkins](https://zhu-weijie.github.io/posts/2025-09-10-github-actions-vs-jenkins/)
 <!-- diagrams ends -->
 
 </td>
