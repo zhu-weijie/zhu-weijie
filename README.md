@@ -8,17 +8,17 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [connect-chat](https://github.com/zhu-weijie/connect-chat)<br/>🧮A globally distributed, highly scalable chat application. The architecture is designed as a cloud-native, microservices-based system to provide low-latency (<500ms P99) and high-availability (99.99%) communication for up to 1 billion users.
+* [design-medclaim-assure](https://github.com/zhu-weijie/design-medclaim-assure)<br/>🧮System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
+
+* [design-pulse-analytics](https://github.com/zhu-weijie/design-pulse-analytics)<br/>🧮A modern data platform on AWS, designed via Architecture-as-Code. Powers BI dashboards and a data catalog using a portable, containerized stack with Airflow, Spark, and Redshift.
+
+* [connect-chat](https://github.com/zhu-weijie/connect-chat)<br/>🧮A globally distributed, highly scalable chat application.
 
 * [fincore-payments](https://github.com/zhu-weijie/fincore-payments)<br/>🧮A robust, multi-provider payment gateway designed to abstract and simplify payment processing, built with a focus on reliability and security.
 
 * [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
 
 * [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮High-performance, scalable, and resilient service for LLM inference, designed with an Architecture-as-Code approach.
-
-* [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
-
-* [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
 <!-- recent_projects ends -->
 
 </td>
