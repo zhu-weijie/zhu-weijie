@@ -8,17 +8,17 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [auth-odyssey](https://github.com/zhu-weijie/auth-odyssey)<br/>🧮A Python/FastAPI project demonstrating key authentication patterns: API Keys, JWT (with refresh tokens & RBAC), and OAuth 2.0.
+* [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮High-performance, scalable, and resilient service for LLM inference, designed with an Architecture-as-Code approach.
 
-* [orquestra](https://github.com/zhu-weijie/orquestra)<br/>🧮A Kubernetes-like framework for orchestrating AI agents.
+* [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
 
-* [cognitive-leverage-engine](https://github.com/zhu-weijie/cognitive-leverage-engine)<br/>🧮An engine to demonstrate AI leverage over traditional certainty-based tasks.
+* [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
 
 * [design-inkwell-platform](https://github.com/zhu-weijie/design-inkwell-platform)<br/>🧮A modern platform for writers to publish and share their content, designed via Architecture-as-Code.
 
-* [pulse-analytics](https://github.com/zhu-weijie/pulse-analytics)<br/>🧮
-
 * [design-patient-notification-system](https://github.com/zhu-weijie/design-patient-notification-system)<br/>🧮A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
+
+* [design-medclaim-assure](https://github.com/zhu-weijie/design-medclaim-assure)<br/>🧮System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
 <!-- recent_projects ends -->
 
 </td>
@@ -26,6 +26,14 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### On My Blog
 <!-- blog starts -->
+* [Engineering Goals for High Performance](https://zhu-weijie.github.io/posts/2025-09-17-high-performance/)
+
+* [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
+
+* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
+
+* [Building a Better LLM Reasoner](https://zhu-weijie.github.io/posts/2025-09-10-llm-reasoner/)
+
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
 * [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
@@ -40,37 +48,41 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
-* [RDBMS Architecture](https://zhu-weijie.github.io/posts/2025-09-05-rdbmd/)
+* [Python Debugging](https://zhu-weijie.github.io/posts/2025-09-20-debugging/)
 
-* [Multileader vs Single-leader Replication](https://zhu-weijie.github.io/posts/2025-09-05-replica-patterns/)
+* [Troubleshooting Slow Database Requests](https://zhu-weijie.github.io/posts/2025-09-20-slow-database-request/)
 
-* [Timing Attack](https://zhu-weijie.github.io/posts/2025-09-05-timing-attack/)
+* [Django vs Flask vs FastAPI](https://zhu-weijie.github.io/posts/2025-09-20-django-flask-fastapi/)
 
-* [Database Management System](https://zhu-weijie.github.io/posts/2025-09-05-dbms/)
+* [Python Module vs Command](https://zhu-weijie.github.io/posts/2025-09-20-module-vs-command/)
 
-* [Database Partitioning](https://zhu-weijie.github.io/posts/2025-09-05-partitioning/)
+* [Database Partitioning vs Sharding](https://zhu-weijie.github.io/posts/2025-09-20-sharding-vs-partitioning/)
 
-* [PACELC Theorem](https://zhu-weijie.github.io/posts/2025-09-05-pacelc-theorem/)
+* [Change Data Capture](https://zhu-weijie.github.io/posts/2025-09-18-cdc/)
 
-* [Active-Active vs Active-Passive System](https://zhu-weijie.github.io/posts/2025-09-05-availability-patterns/)
+* [Python Profiling](https://zhu-weijie.github.io/posts/2025-09-18-python-profiling/)
 
-* [LangChain Integration Ecosystem](https://zhu-weijie.github.io/posts/2025-09-05-langchain-integration-ecosystem/)
+* [unittest vs pytest](https://zhu-weijie.github.io/posts/2025-09-18-unittest-pytest/)
 
-* [ACID vs BASE](https://zhu-weijie.github.io/posts/2025-09-05-acid-vs-base/)
+* [Claude Memory](https://zhu-weijie.github.io/posts/2025-09-17-claude-memory/)
 
-* [HTTP Response Code](https://zhu-weijie.github.io/posts/2025-09-05-http-response-code/)
+* [ChatGPT's Memory](https://zhu-weijie.github.io/posts/2025-09-17-chatapt-memory/)
 
-* [Synchronous vs Asynchronous Communication](https://zhu-weijie.github.io/posts/2025-09-05-synchronous-vs-asynchronous/)
+* [LangGraph](https://zhu-weijie.github.io/posts/2025-09-16-langgraph/)
 
-* [Strong vs Eventual Consistency](https://zhu-weijie.github.io/posts/2025-09-05-consistency/)
+* [Foward Deployed Engineering](https://zhu-weijie.github.io/posts/2025-09-16-fde/)
 
-* [Sequential vs Parallel System](https://zhu-weijie.github.io/posts/2025-09-05-sequential-vs-parallel-system/)
+* [Model Context Protocol](https://zhu-weijie.github.io/posts/2025-09-16-mcp/)
 
-* [Data Storage Format](https://zhu-weijie.github.io/posts/2025-09-05-data-storage-format/)
+* [Multi-Agent Research System](https://zhu-weijie.github.io/posts/2025-09-16-multi-agent-research-system/)
 
-* [JWT](https://zhu-weijie.github.io/posts/2025-09-05-jwt/)
+* [Brainstorming](https://zhu-weijie.github.io/posts/2025-09-12-brainstorming/)
 
-* [API Keys](https://zhu-weijie.github.io/posts/2025-09-04-api-keys/)
+* [LangChain's Solutions](https://zhu-weijie.github.io/posts/2025-09-12-langchain/)
+
+* [Reduce Latency](https://zhu-weijie.github.io/posts/2025-09-11-reduce-latency/)
+
+* [Defeating Nondeterminism in LLM Inference](https://zhu-weijie.github.io/posts/2025-09-11-non-determinism/)
 <!-- diagrams ends -->
 
 </td>
