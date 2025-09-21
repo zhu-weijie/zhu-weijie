@@ -8,17 +8,17 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [design-medclaim-assure](https://github.com/zhu-weijie/design-medclaim-assure)<br/>🧮System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
-
-* [design-pulse-analytics](https://github.com/zhu-weijie/design-pulse-analytics)<br/>🧮A modern data platform on AWS, designed via Architecture-as-Code. Powers BI dashboards and a data catalog using a portable, containerized stack with Airflow, Spark, and Redshift.
-
-* [connect-chat](https://github.com/zhu-weijie/connect-chat)<br/>🧮A globally distributed, highly scalable chat application.
-
-* [fincore-payments](https://github.com/zhu-weijie/fincore-payments)<br/>🧮A robust, multi-provider payment gateway designed to abstract and simplify payment processing, built with a focus on reliability and security.
-
-* [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
-
 * [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮High-performance, scalable, and resilient service for LLM inference, designed with an Architecture-as-Code approach.
+
+* [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
+
+* [design-youtube-system](https://github.com/zhu-weijie/design-youtube-system)<br/>🧮An iterative, issue-driven system design for a YouTube-like video streaming platform using Architecture-as-Code (AaC) with Mermaid.
+
+* [design-inkwell-platform](https://github.com/zhu-weijie/design-inkwell-platform)<br/>🧮A modern platform for writers to publish and share their content, designed via Architecture-as-Code.
+
+* [design-patient-notification-system](https://github.com/zhu-weijie/design-patient-notification-system)<br/>🧮A resilient, cloud-native patient notification system designed using the Issue-Driven Architecture-as-Code (AaC) process. Built on Kubernetes for high portability.
+
+* [design-medclaim-assure](https://github.com/zhu-weijie/design-medclaim-assure)<br/>🧮System architecture for MedClaim-Assure, a highly scalable medical claims processing application.
 <!-- recent_projects ends -->
 
 </td>
