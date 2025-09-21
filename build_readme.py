@@ -7,9 +7,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-MAX_POSTS = 18
-MAX_PROJECTS = 6
-MAX_DIAGRAMS = 18
+MAX_POSTS = 16
+MAX_PROJECTS = 5
+MAX_DIAGRAMS = 20
 GITHUB_USERNAME = "zhu-weijie"
 BLOG_FEED_URL = "https://zhu-weijie.github.io/rss.xml"
 DIAGRAMS_FEED_URL = "https://zhu-weijie.github.io/diagrams/rss.xml"  # New feed URL
