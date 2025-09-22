@@ -46,6 +46,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-22-deep-agents/)
+
 * [Cross-Site Request Forgery](https://zhu-weijie.github.io/posts/2025-09-22-csrf/)
 
 * [SQL Injection](https://zhu-weijie.github.io/posts/2025-09-22-sql-injection/)
@@ -83,8 +85,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Model Context Protocol](https://zhu-weijie.github.io/posts/2025-09-16-mcp/)
 
 * [Multi-Agent Research System](https://zhu-weijie.github.io/posts/2025-09-16-multi-agent-research-system/)
-
-* [Brainstorming](https://zhu-weijie.github.io/posts/2025-09-12-brainstorming/)
 <!-- diagrams ends -->
 
 </td>
