@@ -48,6 +48,12 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
 
+* [Building Your Own Deep Research with LangChain](https://zhu-weijie.github.io/posts/2025-09-23-research-with-langchain/)
+
+* [Integrating MCP with FastAPI](https://zhu-weijie.github.io/posts/2025-09-23-add-mcp-to-fastapi/)
+
+* [Building Your Own Deep Research with Exa](https://zhu-weijie.github.io/posts/2025-09-23-research-agent/)
+
 * [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-22-deep-agents/)
 
 * [Cross-Site Request Forgery](https://zhu-weijie.github.io/posts/2025-09-22-csrf/)
@@ -79,12 +85,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Claude Memory](https://zhu-weijie.github.io/posts/2025-09-17-claude-memory/)
 
 * [ChatGPT's Memory](https://zhu-weijie.github.io/posts/2025-09-17-chatapt-memory/)
-
-* [LangGraph](https://zhu-weijie.github.io/posts/2025-09-16-langgraph/)
-
-* [Foward Deployed Engineering](https://zhu-weijie.github.io/posts/2025-09-16-fde/)
-
-* [Model Context Protocol](https://zhu-weijie.github.io/posts/2025-09-16-mcp/)
 <!-- diagrams ends -->
 
 </td>
