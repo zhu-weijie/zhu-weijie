@@ -8,8 +8,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [convosell-ai-agent](https://github.com/zhu-weijie/convosell-ai-agent)<br/>🧮A real-time voice sales agent powered by AI. It leverages the LiveKit SDK for real-time communication with customers and the Cerebras API for fast, intelligent responses.
-
 * [mcp-remote-server](https://github.com/zhu-weijie/mcp-remote-server)<br/>🧮A production-grade FastAPI service exposing multiple backend tools via the Model Context Protocol (MCP), containerized for cloud-native deployment.
 
 * [connect-chat](https://github.com/zhu-weijie/connect-chat)<br/>🧮A globally distributed, highly scalable chat application.
@@ -17,6 +15,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
 
 * [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮High-performance, scalable, and resilient service for LLM inference, designed with an Architecture-as-Code approach.
+
+* [classify-hub](https://github.com/zhu-weijie/classify-hub)<br/>🧮Architecture-as-Code for the ClassifyHub classifieds application. This repository contains the version-controlled design documents and diagrams.
 <!-- recent_projects ends -->
 
 </td>
@@ -46,6 +46,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
+
 * [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-22-deep-agents/)
 
 * [Cross-Site Request Forgery](https://zhu-weijie.github.io/posts/2025-09-22-csrf/)
@@ -83,8 +85,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Foward Deployed Engineering](https://zhu-weijie.github.io/posts/2025-09-16-fde/)
 
 * [Model Context Protocol](https://zhu-weijie.github.io/posts/2025-09-16-mcp/)
-
-* [Multi-Agent Research System](https://zhu-weijie.github.io/posts/2025-09-16-multi-agent-research-system/)
 <!-- diagrams ends -->
 
 </td>
