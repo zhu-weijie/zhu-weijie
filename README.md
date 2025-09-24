@@ -46,11 +46,15 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
+
 * [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
 
 * [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
 
 * [Kubernetes Networking](https://zhu-weijie.github.io/posts/2025-09-24-kubernetes-networking/)
+
+* [Alembic Golden Rule](https://zhu-weijie.github.io/posts/2025-09-24-alembic/)
 
 * [Docker Compose Networks](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-networks/)
 
@@ -81,10 +85,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Python Debugging](https://zhu-weijie.github.io/posts/2025-09-20-debugging/)
 
 * [Troubleshooting Slow Database Requests](https://zhu-weijie.github.io/posts/2025-09-20-slow-database-request/)
-
-* [Django vs Flask vs FastAPI](https://zhu-weijie.github.io/posts/2025-09-20-django-flask-fastapi/)
-
-* [Python Module vs Command](https://zhu-weijie.github.io/posts/2025-09-20-module-vs-command/)
 <!-- diagrams ends -->
 
 </td>
