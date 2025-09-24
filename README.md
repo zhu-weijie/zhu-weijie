@@ -46,7 +46,13 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
+
+* [A Tripartite Framework for Longevity](https://zhu-weijie.github.io/posts/2025-09-24-longevity/)
+
 * [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
+
+* [FastAPI MCP Library](https://zhu-weijie.github.io/posts/2025-09-23-fastapi-mcp-library/)
 
 * [Building Your Own Deep Research with LangChain](https://zhu-weijie.github.io/posts/2025-09-23-research-with-langchain/)
 
@@ -79,12 +85,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Change Data Capture](https://zhu-weijie.github.io/posts/2025-09-18-cdc/)
 
 * [Python Profiling](https://zhu-weijie.github.io/posts/2025-09-18-python-profiling/)
-
-* [unittest vs pytest](https://zhu-weijie.github.io/posts/2025-09-18-unittest-pytest/)
-
-* [Claude Memory](https://zhu-weijie.github.io/posts/2025-09-17-claude-memory/)
-
-* [ChatGPT's Memory](https://zhu-weijie.github.io/posts/2025-09-17-chatapt-memory/)
 <!-- diagrams ends -->
 
 </td>
