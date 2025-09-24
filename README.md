@@ -24,6 +24,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### On My Blog
 <!-- blog starts -->
+* [A Practical Guide to Resisting Prompt Injection](https://zhu-weijie.github.io/posts/2025-09-24-resisting-prompt-injection/)
+
 * [Engineering Goals for High Performance](https://zhu-weijie.github.io/posts/2025-09-17-high-performance/)
 
 * [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
@@ -46,6 +48,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Create to Understand](https://zhu-weijie.github.io/posts/2025-09-25-create-to-understand/)
+
 * [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
 
 * [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
@@ -83,8 +87,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Agent Development Kit](https://zhu-weijie.github.io/posts/2025-09-21-adk/)
 
 * [Python Debugging](https://zhu-weijie.github.io/posts/2025-09-20-debugging/)
-
-* [Troubleshooting Slow Database Requests](https://zhu-weijie.github.io/posts/2025-09-20-slow-database-request/)
 <!-- diagrams ends -->
 
 </td>
