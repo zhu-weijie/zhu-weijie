@@ -48,6 +48,12 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
 
+* [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
+
+* [Kubernetes Networking](https://zhu-weijie.github.io/posts/2025-09-24-kubernetes-networking/)
+
+* [Docker Compose Networks](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-networks/)
+
 * [A Tripartite Framework for Longevity](https://zhu-weijie.github.io/posts/2025-09-24-longevity/)
 
 * [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
@@ -79,12 +85,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Django vs Flask vs FastAPI](https://zhu-weijie.github.io/posts/2025-09-20-django-flask-fastapi/)
 
 * [Python Module vs Command](https://zhu-weijie.github.io/posts/2025-09-20-module-vs-command/)
-
-* [Database Partitioning vs Sharding](https://zhu-weijie.github.io/posts/2025-09-20-sharding-vs-partitioning/)
-
-* [Change Data Capture](https://zhu-weijie.github.io/posts/2025-09-18-cdc/)
-
-* [Python Profiling](https://zhu-weijie.github.io/posts/2025-09-18-python-profiling/)
 <!-- diagrams ends -->
 
 </td>
