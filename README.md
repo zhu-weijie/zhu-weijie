@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [Create to Understand](https://zhu-weijie.github.io/posts/2025-09-25-create-to-understand/)
 
+* [Cross-Agent Attack](https://zhu-weijie.github.io/posts/2025-09-25-cross-agent-attack/)
+
 * [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
 
 * [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
@@ -75,18 +77,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Building Your Own Deep Research with Exa](https://zhu-weijie.github.io/posts/2025-09-23-research-agent/)
 
 * [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-22-deep-agents/)
-
-* [Cross-Site Request Forgery](https://zhu-weijie.github.io/posts/2025-09-22-csrf/)
-
-* [SQL Injection](https://zhu-weijie.github.io/posts/2025-09-22-sql-injection/)
-
-* [RabbitMQ Architecture](https://zhu-weijie.github.io/posts/2025-09-21-rabbitmq/)
-
-* [REST vs gRPC](https://zhu-weijie.github.io/posts/2025-09-21-rest-vs-grpc/)
-
-* [Agent Development Kit](https://zhu-weijie.github.io/posts/2025-09-21-adk/)
-
-* [Python Debugging](https://zhu-weijie.github.io/posts/2025-09-20-debugging/)
 <!-- diagrams ends -->
 
 </td>
