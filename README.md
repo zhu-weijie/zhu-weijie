@@ -30,9 +30,9 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
 
-* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
-
 * [Building a Better LLM Reasoner](https://zhu-weijie.github.io/posts/2025-09-10-llm-reasoner/)
+
+* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
 
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
@@ -48,35 +48,35 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
-* [Create to Understand](https://zhu-weijie.github.io/posts/2025-09-25-create-to-understand/)
+* [Universal Verifier](https://zhu-weijie.github.io/posts/2025-09-25-universal-verifier/)
 
 * [Cross-Agent Attack](https://zhu-weijie.github.io/posts/2025-09-25-cross-agent-attack/)
 
-* [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
-
-* [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
-
-* [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
-
-* [Kubernetes Networking](https://zhu-weijie.github.io/posts/2025-09-24-kubernetes-networking/)
+* [Create to Understand](https://zhu-weijie.github.io/posts/2025-09-25-create-to-understand/)
 
 * [Alembic Golden Rule](https://zhu-weijie.github.io/posts/2025-09-24-alembic/)
 
-* [Docker Compose Networks](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-networks/)
+* [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
+
+* [Kubernetes Networking](https://zhu-weijie.github.io/posts/2025-09-24-kubernetes-networking/)
 
 * [A Tripartite Framework for Longevity](https://zhu-weijie.github.io/posts/2025-09-24-longevity/)
 
+* [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
+
+* [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
+
+* [Docker Compose Networks](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-networks/)
+
 * [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
+
+* [Building Your Own Deep Research with Exa](https://zhu-weijie.github.io/posts/2025-09-23-research-agent/)
 
 * [FastAPI MCP Library](https://zhu-weijie.github.io/posts/2025-09-23-fastapi-mcp-library/)
 
 * [Building Your Own Deep Research with LangChain](https://zhu-weijie.github.io/posts/2025-09-23-research-with-langchain/)
 
 * [Integrating MCP with FastAPI](https://zhu-weijie.github.io/posts/2025-09-23-add-mcp-to-fastapi/)
-
-* [Building Your Own Deep Research with Exa](https://zhu-weijie.github.io/posts/2025-09-23-research-agent/)
-
-* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-22-deep-agents/)
 <!-- diagrams ends -->
 
 </td>
