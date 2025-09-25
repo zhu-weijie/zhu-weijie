@@ -8,7 +8,7 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [crave-list](https://github.com/zhu-weijie/crave-list)<br/>🧮
+* [crave-list](https://github.com/zhu-weijie/crave-list)<br/>🧮A modern full-stack application to discover food locations and curate your personal wishlist. Built with Next.js (App Router), TypeScript, GraphQL, MongoDB, and Docker.
 
 * [sync-sphere](https://github.com/zhu-weijie/sync-sphere)<br/>🧮A robust, cross-platform file sharing and synchronization service designed for high availability and reliability.
 
