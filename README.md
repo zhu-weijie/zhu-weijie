@@ -48,6 +48,12 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Single-Agent System](https://zhu-weijie.github.io/posts/2025-09-26-single-agent-system/)
+
+* [Tokenization](https://zhu-weijie.github.io/posts/2025-09-26-tokenization/)
+
+* [Large Language Model](https://zhu-weijie.github.io/posts/2025-09-26-llm/)
+
 * [Universal Verifier](https://zhu-weijie.github.io/posts/2025-09-25-universal-verifier/)
 
 * [Cross-Agent Attack](https://zhu-weijie.github.io/posts/2025-09-25-cross-agent-attack/)
@@ -71,12 +77,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
 
 * [Building Your Own Deep Research with Exa](https://zhu-weijie.github.io/posts/2025-09-23-research-agent/)
-
-* [FastAPI MCP Library](https://zhu-weijie.github.io/posts/2025-09-23-fastapi-mcp-library/)
-
-* [Building Your Own Deep Research with LangChain](https://zhu-weijie.github.io/posts/2025-09-23-research-with-langchain/)
-
-* [Integrating MCP with FastAPI](https://zhu-weijie.github.io/posts/2025-09-23-add-mcp-to-fastapi/)
 <!-- diagrams ends -->
 
 </td>
