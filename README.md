@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [warplink](https://github.com/zhu-weijie/warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
+
 * [deep-agent-service](https://github.com/zhu-weijie/deep-agent-service)<br/>⚙️A production-ready FastAPI service implementing the 'Deep Agent' architecture using LangGraph for complex, multi-step AI research tasks.
 
 * [sync-sphere](https://github.com/zhu-weijie/sync-sphere)<br/>⚙️A robust, cross-platform file sharing and synchronization service designed for high availability and reliability.
@@ -15,8 +17,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [mcp-remote-server](https://github.com/zhu-weijie/mcp-remote-server)<br/>⚙️A production-grade FastAPI service exposing multiple backend tools via the Model Context Protocol (MCP), containerized for cloud-native deployment.
 
 * [connect-chat](https://github.com/zhu-weijie/connect-chat)<br/>⚙️A globally distributed, highly scalable chat application.
-
-* [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>⚙️AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
 <!-- recent_projects ends -->
 
 </td>
