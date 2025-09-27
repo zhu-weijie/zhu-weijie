@@ -24,6 +24,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### On My Blog
 <!-- blog starts -->
+* [The Dunning-Kruger Effect](https://zhu-weijie.github.io/posts/2025-09-27-dunning-kruger-effect/)
+
 * [A Practical Guide to Resisting Prompt Injection](https://zhu-weijie.github.io/posts/2025-09-24-resisting-prompt-injection/)
 
 * [Engineering Goals for High Performance](https://zhu-weijie.github.io/posts/2025-09-17-high-performance/)
