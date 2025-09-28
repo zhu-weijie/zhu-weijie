@@ -8,9 +8,9 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [warplink](https://github.com/zhu-weijie/warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
-
 * [deep-agent-service](https://github.com/zhu-weijie/deep-agent-service)<br/>⚙️A production-ready FastAPI service implementing the 'Deep Agent' architecture using LangGraph for complex, multi-step AI research tasks.
+
+* [warplink](https://github.com/zhu-weijie/warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
 
 * [sync-sphere](https://github.com/zhu-weijie/sync-sphere)<br/>⚙️A robust, cross-platform file sharing and synchronization service designed for high availability and reliability.
 
