@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Spec-Driven Development (SDD)](https://zhu-weijie.github.io/posts/2025-09-30-sdd/)
+
 * [Vectorization](https://zhu-weijie.github.io/posts/2025-09-27-vectorization/)
 
 * [Single-Agent System](https://zhu-weijie.github.io/posts/2025-09-26-single-agent-system/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
 
 * [Docker Compose Networks](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-networks/)
-
-* [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
 <!-- diagrams ends -->
 
 </td>
