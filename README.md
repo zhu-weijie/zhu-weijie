@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Attention](https://zhu-weijie.github.io/posts/2025-10-01-attention/)
+
 * [Spec-Driven Development (SDD)](https://zhu-weijie.github.io/posts/2025-09-30-sdd/)
 
 * [Vectorization](https://zhu-weijie.github.io/posts/2025-09-27-vectorization/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
 
 * [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
-
-* [Docker Compose Networks](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-networks/)
 <!-- diagrams ends -->
 
 </td>
