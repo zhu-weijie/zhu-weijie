@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [LLMs Are a Dead End](https://zhu-weijie.github.io/posts/2025-10-02-llms-are-a-dead-end/)
+
 * [Attention](https://zhu-weijie.github.io/posts/2025-10-01-attention/)
 
 * [Spec-Driven Development (SDD)](https://zhu-weijie.github.io/posts/2025-09-30-sdd/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [A Tripartite Framework for Longevity](https://zhu-weijie.github.io/posts/2025-09-24-longevity/)
 
 * [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
-
-* [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
 <!-- diagrams ends -->
 
 </td>
