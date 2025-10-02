@@ -52,6 +52,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [LLMs Are a Dead End](https://zhu-weijie.github.io/posts/2025-10-02-llms-are-a-dead-end/)
 
+* [Self-Supervised Learning (SSL)](https://zhu-weijie.github.io/posts/2025-10-02-ssl/)
+
+* [Wait and Hope](https://zhu-weijie.github.io/posts/2025-10-02-wait-and-hope/)
+
 * [Attention](https://zhu-weijie.github.io/posts/2025-10-01-attention/)
 
 * [Spec-Driven Development (SDD)](https://zhu-weijie.github.io/posts/2025-09-30-sdd/)
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
 
 * [Kubernetes Networking](https://zhu-weijie.github.io/posts/2025-09-24-kubernetes-networking/)
-
-* [A Tripartite Framework for Longevity](https://zhu-weijie.github.io/posts/2025-09-24-longevity/)
-
-* [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
 <!-- diagrams ends -->
 
 </td>
