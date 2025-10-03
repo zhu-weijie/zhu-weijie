@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Transformer](https://zhu-weijie.github.io/posts/2025-10-03-transformer/)
+
 * [LLMs Are a Dead End](https://zhu-weijie.github.io/posts/2025-10-02-llms-are-a-dead-end/)
 
 * [Self-Supervised Learning (SSL)](https://zhu-weijie.github.io/posts/2025-10-02-ssl/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Alembic Golden Rule](https://zhu-weijie.github.io/posts/2025-09-24-alembic/)
 
 * [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
-
-* [Kubernetes Networking](https://zhu-weijie.github.io/posts/2025-09-24-kubernetes-networking/)
 <!-- diagrams ends -->
 
 </td>
