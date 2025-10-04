@@ -8,7 +8,7 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [design-pharos-search](https://github.com/zhu-weijie/design-pharos-search)<br/>⚙️Pharos Search is the architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
+* [design-pharos-search](https://github.com/zhu-weijie/design-pharos-search)<br/>⚙️The architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
 
 * [design-warplink](https://github.com/zhu-weijie/design-warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
 
@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Fine-Tuning](https://zhu-weijie.github.io/posts/2025-10-04-fine-tuning/)
+
 * [Transformer](https://zhu-weijie.github.io/posts/2025-10-03-transformer/)
 
 * [LLMs Are a Dead End](https://zhu-weijie.github.io/posts/2025-10-02-llms-are-a-dead-end/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Create to Understand](https://zhu-weijie.github.io/posts/2025-09-25-create-to-understand/)
 
 * [Alembic Golden Rule](https://zhu-weijie.github.io/posts/2025-09-24-alembic/)
-
-* [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
 <!-- diagrams ends -->
 
 </td>
