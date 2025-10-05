@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Code World Model](https://zhu-weijie.github.io/posts/2025-10-05-cwm/)
+
 * [Few-Shot Prompting](https://zhu-weijie.github.io/posts/2025-10-05-few-shot-prompting/)
 
 * [Fine-Tuning](https://zhu-weijie.github.io/posts/2025-10-04-fine-tuning/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Universal Verifier](https://zhu-weijie.github.io/posts/2025-09-25-universal-verifier/)
 
 * [Cross-Agent Attack](https://zhu-weijie.github.io/posts/2025-09-25-cross-agent-attack/)
-
-* [Create to Understand](https://zhu-weijie.github.io/posts/2025-09-25-create-to-understand/)
 <!-- diagrams ends -->
 
 </td>
