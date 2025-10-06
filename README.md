@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
+
 * [Code World Model](https://zhu-weijie.github.io/posts/2025-10-05-cwm/)
 
 * [Few-Shot Prompting](https://zhu-weijie.github.io/posts/2025-10-05-few-shot-prompting/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Large Language Model](https://zhu-weijie.github.io/posts/2025-09-26-llm/)
 
 * [Universal Verifier](https://zhu-weijie.github.io/posts/2025-09-25-universal-verifier/)
-
-* [Cross-Agent Attack](https://zhu-weijie.github.io/posts/2025-09-25-cross-agent-attack/)
 <!-- diagrams ends -->
 
 </td>
