@@ -52,6 +52,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
 
+* [Retrieval Augmented Generation (RAG)](https://zhu-weijie.github.io/posts/2025-10-06-retrieval-augmented-generation/)
+
+* [Singleton Pattern](https://zhu-weijie.github.io/posts/2025-10-06-singleton-pattern/)
+
 * [Code World Model](https://zhu-weijie.github.io/posts/2025-10-05-cwm/)
 
 * [Few-Shot Prompting](https://zhu-weijie.github.io/posts/2025-10-05-few-shot-prompting/)
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Single-Agent System](https://zhu-weijie.github.io/posts/2025-09-26-single-agent-system/)
 
 * [Tokenization](https://zhu-weijie.github.io/posts/2025-09-26-tokenization/)
-
-* [Large Language Model](https://zhu-weijie.github.io/posts/2025-09-26-llm/)
-
-* [Universal Verifier](https://zhu-weijie.github.io/posts/2025-09-25-universal-verifier/)
 <!-- diagrams ends -->
 
 </td>
