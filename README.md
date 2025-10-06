@@ -52,9 +52,13 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 <!-- diagrams starts -->
 * [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
 
+* [DeepSeek-R1 Incentivizes Reasoning in LLMs through Reinforcement Learning](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-r1/)
+
 * [Retrieval Augmented Generation (RAG)](https://zhu-weijie.github.io/posts/2025-10-06-retrieval-augmented-generation/)
 
 * [Singleton Pattern](https://zhu-weijie.github.io/posts/2025-10-06-singleton-pattern/)
+
+* [DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-v3-2/)
 
 * [Code World Model](https://zhu-weijie.github.io/posts/2025-10-05-cwm/)
 
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Spec-Driven Development (SDD)](https://zhu-weijie.github.io/posts/2025-09-30-sdd/)
 
 * [Vectorization](https://zhu-weijie.github.io/posts/2025-09-27-vectorization/)
-
-* [Single-Agent System](https://zhu-weijie.github.io/posts/2025-09-26-single-agent-system/)
-
-* [Tokenization](https://zhu-weijie.github.io/posts/2025-09-26-tokenization/)
 <!-- diagrams ends -->
 
 </td>
