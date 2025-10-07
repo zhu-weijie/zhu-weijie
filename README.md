@@ -50,7 +50,11 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Vector Database](https://zhu-weijie.github.io/posts/2025-10-07-vector-database/)
+
 * [Tractatus Logico-Philosophicus vs Language-Games](https://zhu-weijie.github.io/posts/2025-10-07-wittgenstein/)
+
+* [Context Engineering](https://zhu-weijie.github.io/posts/2025-10-07-context-engineering/)
 
 * [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
 
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Self-Supervised Learning (SSL)](https://zhu-weijie.github.io/posts/2025-10-02-ssl/)
 
 * [Wait and Hope](https://zhu-weijie.github.io/posts/2025-10-02-wait-and-hope/)
-
-* [Attention](https://zhu-weijie.github.io/posts/2025-10-01-attention/)
-
-* [Spec-Driven Development (SDD)](https://zhu-weijie.github.io/posts/2025-09-30-sdd/)
 <!-- diagrams ends -->
 
 </td>
