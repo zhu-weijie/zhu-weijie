@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Tractatus Logico-Philosophicus vs Language-Games](https://zhu-weijie.github.io/posts/2025-10-07-wittgenstein/)
+
 * [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
 
 * [DeepSeek-R1 Incentivizes Reasoning in LLMs through Reinforcement Learning](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-r1/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Attention](https://zhu-weijie.github.io/posts/2025-10-01-attention/)
 
 * [Spec-Driven Development (SDD)](https://zhu-weijie.github.io/posts/2025-09-30-sdd/)
-
-* [Vectorization](https://zhu-weijie.github.io/posts/2025-09-27-vectorization/)
 <!-- diagrams ends -->
 
 </td>
