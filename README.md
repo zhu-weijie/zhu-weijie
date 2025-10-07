@@ -56,6 +56,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Context Engineering](https://zhu-weijie.github.io/posts/2025-10-07-context-engineering/)
 
+* [Agent2Agent Protocol (A2A)](https://zhu-weijie.github.io/posts/2025-10-07-a2a/)
+
+* [The Limits of AI: Generative AI, NLP, AGI, & What’s Next?](https://zhu-weijie.github.io/posts/2025-10-07-limits-of-ai/)
+
 * [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
 
 * [DeepSeek-R1 Incentivizes Reasoning in LLMs through Reinforcement Learning](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-r1/)
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Transformer](https://zhu-weijie.github.io/posts/2025-10-03-transformer/)
 
 * [LLMs Are a Dead End](https://zhu-weijie.github.io/posts/2025-10-02-llms-are-a-dead-end/)
-
-* [Self-Supervised Learning (SSL)](https://zhu-weijie.github.io/posts/2025-10-02-ssl/)
-
-* [Wait and Hope](https://zhu-weijie.github.io/posts/2025-10-02-wait-and-hope/)
 <!-- diagrams ends -->
 
 </td>
