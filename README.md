@@ -50,6 +50,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Python 3.14](https://zhu-weijie.github.io/posts/2025-10-08-python-3-14/)
+
+* [Playwright](https://zhu-weijie.github.io/posts/2025-10-08-playwright/)
+
 * [How Flipkart Built a Highly Available MySQL Cluster for 150+ Million Users](https://zhu-weijie.github.io/posts/2025-10-08-highly-available-mysql-cluster/)
 
 * [Vector Database](https://zhu-weijie.github.io/posts/2025-10-07-vector-database/)
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Code World Model](https://zhu-weijie.github.io/posts/2025-10-05-cwm/)
 
 * [Few-Shot Prompting](https://zhu-weijie.github.io/posts/2025-10-05-few-shot-prompting/)
-
-* [Fine-Tuning](https://zhu-weijie.github.io/posts/2025-10-04-fine-tuning/)
-
-* [Transformer](https://zhu-weijie.github.io/posts/2025-10-03-transformer/)
 <!-- diagrams ends -->
 
 </td>
