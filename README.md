@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [design-governor-ratelimiter](https://github.com/zhu-weijie/design-governor-ratelimiter)<br/>⚙️A centralized, high-throughput rate-limiting service designed to safeguard the stability of platform APIs and microservices.
+
 * [design-pharos-search](https://github.com/zhu-weijie/design-pharos-search)<br/>⚙️An architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
 
 * [design-warplink](https://github.com/zhu-weijie/design-warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
@@ -15,8 +17,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [deep-agent-service](https://github.com/zhu-weijie/deep-agent-service)<br/>⚙️A production-ready FastAPI service implementing the 'Deep Agent' architecture using LangGraph for complex, multi-step AI research tasks.
 
 * [sync-sphere](https://github.com/zhu-weijie/sync-sphere)<br/>⚙️A robust, cross-platform file sharing and synchronization service designed for high availability and reliability.
-
-* [mcp-remote-server](https://github.com/zhu-weijie/mcp-remote-server)<br/>⚙️A production-grade FastAPI service exposing multiple backend tools via the Model Context Protocol (MCP), containerized for cloud-native deployment.
 <!-- recent_projects ends -->
 
 </td>
@@ -56,6 +56,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [How Flipkart Built a Highly Available MySQL Cluster for 150+ Million Users](https://zhu-weijie.github.io/posts/2025-10-08-highly-available-mysql-cluster/)
 
+* [Software Eats Labor](https://zhu-weijie.github.io/posts/2025-10-08-software-eats-labor/)
+
 * [Vector Database](https://zhu-weijie.github.io/posts/2025-10-07-vector-database/)
 
 * [Tractatus Logico-Philosophicus vs Language-Games](https://zhu-weijie.github.io/posts/2025-10-07-wittgenstein/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-v3-2/)
 
 * [Code World Model](https://zhu-weijie.github.io/posts/2025-10-05-cwm/)
-
-* [Few-Shot Prompting](https://zhu-weijie.github.io/posts/2025-10-05-few-shot-prompting/)
 <!-- diagrams ends -->
 
 </td>
