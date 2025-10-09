@@ -54,6 +54,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 * [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
 
+* [Quantization](https://zhu-weijie.github.io/posts/2025-10-09-quantization/)
+
 * [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
 
 * [AI Agent](https://zhu-weijie.github.io/posts/2025-10-09-ai-agent/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Agent2Agent Protocol (A2A)](https://zhu-weijie.github.io/posts/2025-10-07-a2a/)
 
 * [The Limits of AI: Generative AI, NLP, AGI, & What’s Next?](https://zhu-weijie.github.io/posts/2025-10-07-limits-of-ai/)
-
-* [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
 <!-- diagrams ends -->
 
 </td>
