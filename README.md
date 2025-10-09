@@ -50,6 +50,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Facebook Ordered Queueing Service (FOQS)](https://zhu-weijie.github.io/posts/2025-10-09-foqs/)
+
 * [Python 3.14](https://zhu-weijie.github.io/posts/2025-10-08-python-3-14/)
 
 * [Playwright](https://zhu-weijie.github.io/posts/2025-10-08-playwright/)
@@ -77,8 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Singleton Pattern](https://zhu-weijie.github.io/posts/2025-10-06-singleton-pattern/)
 
 * [DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-v3-2/)
-
-* [Code World Model](https://zhu-weijie.github.io/posts/2025-10-05-cwm/)
 <!-- diagrams ends -->
 
 </td>
