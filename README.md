@@ -50,6 +50,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
+
+* [AI Agent](https://zhu-weijie.github.io/posts/2025-10-09-ai-agent/)
+
 * [Facebook Ordered Queueing Service (FOQS)](https://zhu-weijie.github.io/posts/2025-10-09-foqs/)
 
 * [Python 3.14](https://zhu-weijie.github.io/posts/2025-10-08-python-3-14/)
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [DeepSeek-R1 Incentivizes Reasoning in LLMs through Reinforcement Learning](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-r1/)
 
 * [Retrieval Augmented Generation (RAG)](https://zhu-weijie.github.io/posts/2025-10-06-retrieval-augmented-generation/)
-
-* [Singleton Pattern](https://zhu-weijie.github.io/posts/2025-10-06-singleton-pattern/)
-
-* [DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-v3-2/)
 <!-- diagrams ends -->
 
 </td>
