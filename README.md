@@ -50,6 +50,10 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Distillation](https://zhu-weijie.github.io/posts/2025-10-09-distillation/)
+
+* [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
+
 * [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
 
 * [AI Agent](https://zhu-weijie.github.io/posts/2025-10-09-ai-agent/)
@@ -75,10 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [The Limits of AI: Generative AI, NLP, AGI, & What’s Next?](https://zhu-weijie.github.io/posts/2025-10-07-limits-of-ai/)
 
 * [The Parallel Coding Agent Lifestyle](https://zhu-weijie.github.io/posts/2025-10-06-the-parallel-coding-agent-lifestyle/)
-
-* [DeepSeek-R1 Incentivizes Reasoning in LLMs through Reinforcement Learning](https://zhu-weijie.github.io/posts/2025-10-06-deepseek-r1/)
-
-* [Retrieval Augmented Generation (RAG)](https://zhu-weijie.github.io/posts/2025-10-06-retrieval-augmented-generation/)
 <!-- diagrams ends -->
 
 </td>
