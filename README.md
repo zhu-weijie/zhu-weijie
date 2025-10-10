@@ -50,6 +50,12 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Diagrams
 <!-- diagrams starts -->
+* [AI Agents](https://zhu-weijie.github.io/posts/2025-10-10-ai-agents/)
+
+* [Domain Name System (DNS)](https://zhu-weijie.github.io/posts/2025-10-10-dns/)
+
+* [GraphQL](https://zhu-weijie.github.io/posts/2025-10-10-graphql/)
+
 * [Distillation](https://zhu-weijie.github.io/posts/2025-10-09-distillation/)
 
 * [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
@@ -73,12 +79,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [Vector Database](https://zhu-weijie.github.io/posts/2025-10-07-vector-database/)
 
 * [Tractatus Logico-Philosophicus vs Language-Games](https://zhu-weijie.github.io/posts/2025-10-07-wittgenstein/)
-
-* [Context Engineering](https://zhu-weijie.github.io/posts/2025-10-07-context-engineering/)
-
-* [Agent2Agent Protocol (A2A)](https://zhu-weijie.github.io/posts/2025-10-07-a2a/)
-
-* [The Limits of AI: Generative AI, NLP, AGI, & What’s Next?](https://zhu-weijie.github.io/posts/2025-10-07-limits-of-ai/)
 <!-- diagrams ends -->
 
 </td>
