@@ -1,6 +1,4 @@
-# Hi there, I'm Zhu Weijie
-
-A seasoned Software Engineer based in Singapore with over a decade of experience in architecting and developing robust, scalable software solutions. My core expertise is in Python and C++ for backend systems and full-stack applications, leveraging modern technologies like microservices, AWS/GCP, Docker, and Kubernetes. With a proven track record of leading Agile teams through the entire software development lifecycle, I am dedicated to solving complex problems and delivering high-impact products.
+Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building scalable and high-impact software. While my 10+ years of experience are rooted in backend systems with languages like Python and C++, I believe in using the right tool for the job and am always eager to dive into new languages and technologies. This profile documents my projects and explorations. I'm always open to connecting with fellow developers for insightful conversations and collaborations.
 
 <table>
 <tr>
