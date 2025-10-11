@@ -8,6 +8,8 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 
 ### Recent Projects
 <!-- recent_projects starts -->
+* [code-explain](https://github.com/zhu-weijie/code-explain)<br/>⚙️An AI-powered web application that generates clear, easy-to-understand explanations for any code snippet. This full-stack project is built with React 19, Vite, TailwindCSS, and an Express.js backend.
+
 * [design-governor-ratelimiter](https://github.com/zhu-weijie/design-governor-ratelimiter)<br/>⚙️A centralized, high-throughput rate-limiting service designed to safeguard the stability of platform APIs and microservices.
 
 * [design-pharos-search](https://github.com/zhu-weijie/design-pharos-search)<br/>⚙️An architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
@@ -15,8 +17,6 @@ A seasoned Software Engineer based in Singapore with over a decade of experience
 * [design-warplink](https://github.com/zhu-weijie/design-warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
 
 * [deep-agent-service](https://github.com/zhu-weijie/deep-agent-service)<br/>⚙️A production-ready FastAPI service implementing the 'Deep Agent' architecture using LangGraph for complex, multi-step AI research tasks.
-
-* [sync-sphere](https://github.com/zhu-weijie/sync-sphere)<br/>⚙️A robust, cross-platform file sharing and synchronization service designed for high availability and reliability.
 <!-- recent_projects ends -->
 
 </td>
