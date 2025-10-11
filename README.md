@@ -6,15 +6,15 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [sync-sphere](https://github.com/zhu-weijie/sync-sphere)<br/>🧮A robust, cross-platform file sharing and synchronization service designed for high availability and reliability.
+* [code-explain](https://github.com/zhu-weijie/code-explain)<br/>⚙️An AI-powered web application that generates clear, easy-to-understand explanations for any code snippet. This full-stack project is built with React 19, Vite, TailwindCSS, and an Express.js backend.
 
-* [mcp-remote-server](https://github.com/zhu-weijie/mcp-remote-server)<br/>🧮A production-grade FastAPI service exposing multiple backend tools via the Model Context Protocol (MCP), containerized for cloud-native deployment.
+* [design-governor-ratelimiter](https://github.com/zhu-weijie/design-governor-ratelimiter)<br/>⚙️A centralized, high-throughput rate-limiting service designed to safeguard the stability of platform APIs and microservices.
 
-* [connect-chat](https://github.com/zhu-weijie/connect-chat)<br/>🧮A globally distributed, highly scalable chat application.
+* [design-pharos-search](https://github.com/zhu-weijie/design-pharos-search)<br/>⚙️An architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
 
-* [ai-powered-guardian](https://github.com/zhu-weijie/ai-powered-guardian)<br/>🧮AI-Powered RBAC system for asset management. Built with FastAPI, Terraform, and GitHub Actions, featuring an Architecture-as-Code design process.
+* [design-warplink](https://github.com/zhu-weijie/design-warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
 
-* [axon-ai-serving](https://github.com/zhu-weijie/axon-ai-serving)<br/>🧮High-performance, scalable, and resilient service for LLM inference, designed with an Architecture-as-Code approach.
+* [deep-agent-service](https://github.com/zhu-weijie/deep-agent-service)<br/>⚙️A production-ready FastAPI service implementing the 'Deep Agent' architecture using LangGraph for complex, multi-step AI research tasks.
 <!-- recent_projects ends -->
 
 </td>
@@ -22,15 +22,19 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### On My Blog
 <!-- blog starts -->
+* [The Complete Resilience Framework: A Two-Part System for Unshakable Calm](https://zhu-weijie.github.io/posts/2025-10-11-emotional-resilience/)
+
+* [The Dunning-Kruger Effect](https://zhu-weijie.github.io/posts/2025-09-27-dunning-kruger-effect/)
+
 * [A Practical Guide to Resisting Prompt Injection](https://zhu-weijie.github.io/posts/2025-09-24-resisting-prompt-injection/)
 
 * [Engineering Goals for High Performance](https://zhu-weijie.github.io/posts/2025-09-17-high-performance/)
 
 * [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
 
-* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
-
 * [Building a Better LLM Reasoner](https://zhu-weijie.github.io/posts/2025-09-10-llm-reasoner/)
+
+* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
 
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
@@ -46,45 +50,35 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
-* [Create to Understand](https://zhu-weijie.github.io/posts/2025-09-25-create-to-understand/)
+* [AI Agents](https://zhu-weijie.github.io/posts/2025-10-10-ai-agents/)
 
-* [Python's Memory Management](https://zhu-weijie.github.io/posts/2025-09-24-python-memory-management/)
+* [Domain Name System (DNS)](https://zhu-weijie.github.io/posts/2025-10-10-dns/)
 
-* [Connecting Backend and Database in AWS](https://zhu-weijie.github.io/posts/2025-09-24-connect-backend-and-database-in-aws/)
+* [GraphQL](https://zhu-weijie.github.io/posts/2025-10-10-graphql/)
 
-* [Docker Compose exec vs run](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-exec-vs-run/)
+* [Distillation](https://zhu-weijie.github.io/posts/2025-10-09-distillation/)
 
-* [Kubernetes Networking](https://zhu-weijie.github.io/posts/2025-09-24-kubernetes-networking/)
+* [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
 
-* [Alembic Golden Rule](https://zhu-weijie.github.io/posts/2025-09-24-alembic/)
+* [Quantization](https://zhu-weijie.github.io/posts/2025-10-09-quantization/)
 
-* [Docker Compose Networks](https://zhu-weijie.github.io/posts/2025-09-24-docker-compose-networks/)
+* [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
 
-* [A Tripartite Framework for Longevity](https://zhu-weijie.github.io/posts/2025-09-24-longevity/)
+* [AI Agent](https://zhu-weijie.github.io/posts/2025-10-09-ai-agent/)
 
-* [Building Voice Agents with LiveKit and Cerebras](https://zhu-weijie.github.io/posts/2025-09-23-ai-sales-agent/)
+* [Facebook Ordered Queueing Service (FOQS)](https://zhu-weijie.github.io/posts/2025-10-09-foqs/)
 
-* [FastAPI MCP Library](https://zhu-weijie.github.io/posts/2025-09-23-fastapi-mcp-library/)
+* [Python 3.14](https://zhu-weijie.github.io/posts/2025-10-08-python-3-14/)
 
-* [Building Your Own Deep Research with LangChain](https://zhu-weijie.github.io/posts/2025-09-23-research-with-langchain/)
+* [Playwright](https://zhu-weijie.github.io/posts/2025-10-08-playwright/)
 
-* [Integrating MCP with FastAPI](https://zhu-weijie.github.io/posts/2025-09-23-add-mcp-to-fastapi/)
+* [How Flipkart Built a Highly Available MySQL Cluster for 150+ Million Users](https://zhu-weijie.github.io/posts/2025-10-08-highly-available-mysql-cluster/)
 
-* [Building Your Own Deep Research with Exa](https://zhu-weijie.github.io/posts/2025-09-23-research-agent/)
+* [Software Eats Labor](https://zhu-weijie.github.io/posts/2025-10-08-software-eats-labor/)
 
-* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-22-deep-agents/)
+* [Vector Database](https://zhu-weijie.github.io/posts/2025-10-07-vector-database/)
 
-* [Cross-Site Request Forgery](https://zhu-weijie.github.io/posts/2025-09-22-csrf/)
-
-* [SQL Injection](https://zhu-weijie.github.io/posts/2025-09-22-sql-injection/)
-
-* [RabbitMQ Architecture](https://zhu-weijie.github.io/posts/2025-09-21-rabbitmq/)
-
-* [REST vs gRPC](https://zhu-weijie.github.io/posts/2025-09-21-rest-vs-grpc/)
-
-* [Agent Development Kit](https://zhu-weijie.github.io/posts/2025-09-21-adk/)
-
-* [Python Debugging](https://zhu-weijie.github.io/posts/2025-09-20-debugging/)
+* [Tractatus Logico-Philosophicus vs Language-Games](https://zhu-weijie.github.io/posts/2025-10-07-wittgenstein/)
 <!-- diagrams ends -->
 
 </td>
