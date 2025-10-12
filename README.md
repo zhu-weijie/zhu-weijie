@@ -13,8 +13,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [design-pharos-search](https://github.com/zhu-weijie/design-pharos-search)<br/>⚙️An architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
 
 * [design-warplink](https://github.com/zhu-weijie/design-warplink)<br/>⚙️A high-performance, scalable URL shortener service with a developer-first API, designed using a cloud-native, Architecture-as-Code approach.
-
-* [deep-agent-service](https://github.com/zhu-weijie/deep-agent-service)<br/>⚙️A production-ready FastAPI service implementing the 'Deep Agent' architecture using LangGraph for complex, multi-step AI research tasks.
 <!-- recent_projects ends -->
 
 </td>
