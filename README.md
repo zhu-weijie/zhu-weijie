@@ -48,6 +48,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Claude Code CLI](https://zhu-weijie.github.io/posts/2025-10-13-claude-code/)
+
 * [AI Agents](https://zhu-weijie.github.io/posts/2025-10-10-ai-agents/)
 
 * [Domain Name System (DNS)](https://zhu-weijie.github.io/posts/2025-10-10-dns/)
@@ -75,8 +77,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Software Eats Labor](https://zhu-weijie.github.io/posts/2025-10-08-software-eats-labor/)
 
 * [Vector Database](https://zhu-weijie.github.io/posts/2025-10-07-vector-database/)
-
-* [Tractatus Logico-Philosophicus vs Language-Games](https://zhu-weijie.github.io/posts/2025-10-07-wittgenstein/)
 <!-- diagrams ends -->
 
 </td>
