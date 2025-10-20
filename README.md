@@ -48,6 +48,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Anthropic Skills](https://zhu-weijie.github.io/posts/2025-10-20-anthropic-skills/)
+
 * [Solace Agent Mesh](https://zhu-weijie.github.io/posts/2025-10-18-solace-agent-mesh/)
 
 * [LTA API Key](https://zhu-weijie.github.io/posts/2025-10-13-lta-api-key/)
@@ -75,8 +77,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Playwright](https://zhu-weijie.github.io/posts/2025-10-08-playwright/)
 
 * [Software Eats Labor](https://zhu-weijie.github.io/posts/2025-10-08-software-eats-labor/)
-
-* [How Flipkart Built a Highly Available MySQL Cluster for 150+ Million Users](https://zhu-weijie.github.io/posts/2025-10-08-highly-available-mysql-cluster/)
 <!-- diagrams ends -->
 
 </td>
