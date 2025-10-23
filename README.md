@@ -30,17 +30,17 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 * [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
 
-* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
-
 * [Building a Better LLM Reasoner](https://zhu-weijie.github.io/posts/2025-09-10-llm-reasoner/)
 
+* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
+
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
+
+* [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
 
 * [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/)
 
 * [The Complete Model for Good System Design](https://zhu-weijie.github.io/posts/2025-08-31-the-complete-model-for-good-system-design/)
-
-* [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
 <!-- blog ends -->
 
 </td>
@@ -48,9 +48,11 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
-* [Anthropic Skills](https://zhu-weijie.github.io/posts/2025-10-20-anthropic-skills/)
+* [How Passkeys Work: A Revolution in Digital Security](https://zhu-weijie.github.io/posts/2025-10-23-passkey/)
 
 * [Dev Container Setup](https://zhu-weijie.github.io/posts/2025-10-20-dev-container/)
+
+* [Anthropic Skills](https://zhu-weijie.github.io/posts/2025-10-20-anthropic-skills/)
 
 * [Solace Agent Mesh](https://zhu-weijie.github.io/posts/2025-10-18-solace-agent-mesh/)
 
@@ -58,25 +60,23 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 * [Claude Code CLI](https://zhu-weijie.github.io/posts/2025-10-13-claude-code/)
 
+* [AI Agents](https://zhu-weijie.github.io/posts/2025-10-10-ai-agents/)
+
 * [Domain Name System (DNS)](https://zhu-weijie.github.io/posts/2025-10-10-dns/)
 
 * [GraphQL](https://zhu-weijie.github.io/posts/2025-10-10-graphql/)
 
-* [AI Agents](https://zhu-weijie.github.io/posts/2025-10-10-ai-agents/)
-
-* [Facebook Ordered Queueing Service (FOQS)](https://zhu-weijie.github.io/posts/2025-10-09-foqs/)
-
-* [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
-
 * [Distillation](https://zhu-weijie.github.io/posts/2025-10-09-distillation/)
-
-* [Quantization](https://zhu-weijie.github.io/posts/2025-10-09-quantization/)
 
 * [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
 
+* [Quantization](https://zhu-weijie.github.io/posts/2025-10-09-quantization/)
+
+* [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
+
 * [AI Agent](https://zhu-weijie.github.io/posts/2025-10-09-ai-agent/)
 
-* [Playwright](https://zhu-weijie.github.io/posts/2025-10-08-playwright/)
+* [Facebook Ordered Queueing Service (FOQS)](https://zhu-weijie.github.io/posts/2025-10-09-foqs/)
 <!-- diagrams ends -->
 
 </td>
