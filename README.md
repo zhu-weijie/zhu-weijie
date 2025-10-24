@@ -48,7 +48,11 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Design Strategy](https://zhu-weijie.github.io/posts/2025-10-24-design-strategy/)
+
 * [Tradeoff Responsibly with AI](https://zhu-weijie.github.io/posts/2025-10-24-tradeoff-responsibly-ai/)
+
+* [From Human Clicks to AI Tool Calls](https://zhu-weijie.github.io/posts/2025-10-24-tool-calls/)
 
 * [How Passkeys Work: A Revolution in Digital Security](https://zhu-weijie.github.io/posts/2025-10-23-passkey/)
 
@@ -73,10 +77,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
 
 * [Quantization](https://zhu-weijie.github.io/posts/2025-10-09-quantization/)
-
-* [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
-
-* [AI Agent](https://zhu-weijie.github.io/posts/2025-10-09-ai-agent/)
 <!-- diagrams ends -->
 
 </td>
