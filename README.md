@@ -48,6 +48,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Tradeoff Responsibly with AI](https://zhu-weijie.github.io/posts/2025-10-24-tradeoff-responsibly-ai/)
+
 * [How Passkeys Work: A Revolution in Digital Security](https://zhu-weijie.github.io/posts/2025-10-23-passkey/)
 
 * [Dev Container Setup](https://zhu-weijie.github.io/posts/2025-10-20-dev-container/)
@@ -75,8 +77,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Reinforcement Learning (RL)](https://zhu-weijie.github.io/posts/2025-10-09-reinforcement-learning/)
 
 * [AI Agent](https://zhu-weijie.github.io/posts/2025-10-09-ai-agent/)
-
-* [Facebook Ordered Queueing Service (FOQS)](https://zhu-weijie.github.io/posts/2025-10-09-foqs/)
 <!-- diagrams ends -->
 
 </td>
