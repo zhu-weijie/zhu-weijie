@@ -20,6 +20,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### On My Blog
 <!-- blog starts -->
+* [Zhī-Xíng-Lè Héyī: A Framework for Focus in the Age of Distraction](https://zhu-weijie.github.io/posts/2025-10-26-zhi-xing-le-he-yi/)
+
 * [The Complete Resilience Framework: A Two-Part System for Unshakable Calm](https://zhu-weijie.github.io/posts/2025-10-11-emotional-resilience/)
 
 * [The Dunning-Kruger Effect](https://zhu-weijie.github.io/posts/2025-09-27-dunning-kruger-effect/)
