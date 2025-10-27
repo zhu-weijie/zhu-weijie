@@ -52,6 +52,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 <!-- diagrams starts -->
 * [Defining Artificial General Intelligence](https://zhu-weijie.github.io/posts/2025-10-27-agi/)
 
+* [Cross-Origin Resource Sharing (CORS) and CORSMiddleware](https://zhu-weijie.github.io/posts/2025-10-27-cors/)
+
 * [Design Strategy](https://zhu-weijie.github.io/posts/2025-10-24-design-strategy/)
 
 * [Tradeoff Responsibly with AI](https://zhu-weijie.github.io/posts/2025-10-24-tradeoff-responsibly-ai/)
@@ -77,8 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [GraphQL](https://zhu-weijie.github.io/posts/2025-10-10-graphql/)
 
 * [Distillation](https://zhu-weijie.github.io/posts/2025-10-09-distillation/)
-
-* [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
 <!-- diagrams ends -->
 
 </td>
