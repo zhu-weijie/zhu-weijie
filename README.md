@@ -50,6 +50,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Defining Artificial General Intelligence](https://zhu-weijie.github.io/posts/2025-10-27-agi/)
+
 * [Design Strategy](https://zhu-weijie.github.io/posts/2025-10-24-design-strategy/)
 
 * [Tradeoff Responsibly with AI](https://zhu-weijie.github.io/posts/2025-10-24-tradeoff-responsibly-ai/)
@@ -77,8 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Distillation](https://zhu-weijie.github.io/posts/2025-10-09-distillation/)
 
 * [Chain of Thought (CoT)](https://zhu-weijie.github.io/posts/2025-10-09-cot/)
-
-* [Quantization](https://zhu-weijie.github.io/posts/2025-10-09-quantization/)
 <!-- diagrams ends -->
 
 </td>
