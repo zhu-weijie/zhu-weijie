@@ -50,6 +50,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Linux Boot Process](https://zhu-weijie.github.io/posts/2025-10-31-linux-boot-process/)
+
 * [Claude Agent Skills](https://zhu-weijie.github.io/posts/2025-10-29-claude-agent-skills/)
 
 * [Defining Artificial General Intelligence](https://zhu-weijie.github.io/posts/2025-10-27-agi/)
@@ -77,8 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [AI Agents](https://zhu-weijie.github.io/posts/2025-10-10-ai-agents/)
 
 * [Domain Name System (DNS)](https://zhu-weijie.github.io/posts/2025-10-10-dns/)
-
-* [GraphQL](https://zhu-weijie.github.io/posts/2025-10-10-graphql/)
 <!-- diagrams ends -->
 
 </td>
