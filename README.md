@@ -50,6 +50,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Artificial Superintelligence](https://zhu-weijie.github.io/posts/2025-11-05-asi/)
+
 * [AI Business Skills](https://zhu-weijie.github.io/posts/2025-11-04-engineer-ai-skills/)
 
 * [Linux Boot Process](https://zhu-weijie.github.io/posts/2025-10-31-linux-boot-process/)
@@ -77,8 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [LTA API Key](https://zhu-weijie.github.io/posts/2025-10-13-lta-api-key/)
 
 * [Claude Code CLI](https://zhu-weijie.github.io/posts/2025-10-13-claude-code/)
-
-* [AI Agents](https://zhu-weijie.github.io/posts/2025-10-10-ai-agents/)
 <!-- diagrams ends -->
 
 </td>
