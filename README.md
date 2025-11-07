@@ -50,6 +50,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [The Evolution of Software Development](https://zhu-weijie.github.io/posts/2025-11-07-evolution-of-software-development/)
+
 * [Synthetic Data Generation](https://zhu-weijie.github.io/posts/2025-11-06-synthetic-data/)
 
 * [Artificial Superintelligence](https://zhu-weijie.github.io/posts/2025-11-05-asi/)
@@ -77,8 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Anthropic Skills](https://zhu-weijie.github.io/posts/2025-10-20-anthropic-skills/)
 
 * [Solace Agent Mesh](https://zhu-weijie.github.io/posts/2025-10-18-solace-agent-mesh/)
-
-* [LTA API Key](https://zhu-weijie.github.io/posts/2025-10-13-lta-api-key/)
 <!-- diagrams ends -->
 
 </td>
