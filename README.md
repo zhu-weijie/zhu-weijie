@@ -20,6 +20,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### On My Blog
 <!-- blog starts -->
+* [Design Pastebin.com (or Bit.ly)](https://zhu-weijie.github.io/posts/2025-11-09-system-design-for-pastebin/)
+
 * [Zhī-Xíng-Lè Héyī: A Framework for Focus in the Age of Distraction](https://zhu-weijie.github.io/posts/2025-10-26-zhi-xing-le-he-yi/)
 
 * [The Complete Resilience Framework: A Two-Part System for Unshakable Calm](https://zhu-weijie.github.io/posts/2025-10-11-emotional-resilience/)
@@ -41,8 +43,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
 
 * [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/)
-
-* [The Complete Model for Good System Design](https://zhu-weijie.github.io/posts/2025-08-31-the-complete-model-for-good-system-design/)
 <!-- blog ends -->
 
 </td>
@@ -50,6 +50,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Supabase Architecture](https://zhu-weijie.github.io/posts/2025-11-08-supabase/)
+
 * [The Evolution of Software Development](https://zhu-weijie.github.io/posts/2025-11-07-evolution-of-software-development/)
 
 * [Synthetic Data Generation](https://zhu-weijie.github.io/posts/2025-11-06-synthetic-data/)
@@ -77,8 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Dev Container Setup](https://zhu-weijie.github.io/posts/2025-10-20-dev-container/)
 
 * [Anthropic Skills](https://zhu-weijie.github.io/posts/2025-10-20-anthropic-skills/)
-
-* [Solace Agent Mesh](https://zhu-weijie.github.io/posts/2025-10-18-solace-agent-mesh/)
 <!-- diagrams ends -->
 
 </td>
