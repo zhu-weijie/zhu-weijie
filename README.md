@@ -20,6 +20,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### On My Blog
 <!-- blog starts -->
+* [Design the Twitter (x.com) timeline and search](https://zhu-weijie.github.io/posts/2025-11-11-system-design-for-twitter-timeline-and-search/)
+
 * [Design Pastebin.com (or Bit.ly)](https://zhu-weijie.github.io/posts/2025-11-09-system-design-for-pastebin/)
 
 * [Zhī-Xíng-Lè Héyī: A Framework for Focus in the Age of Distraction](https://zhu-weijie.github.io/posts/2025-10-26-zhi-xing-le-he-yi/)
@@ -41,8 +43,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
 * [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
-
-* [The $10 Trillion AI Revolution](https://zhu-weijie.github.io/posts/2025-08-31-the-ten-trillion-dollars-ai-revolution/)
 <!-- blog ends -->
 
 </td>
