@@ -50,6 +50,10 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Hibernate](https://zhu-weijie.github.io/posts/2025-11-23-hibernate/)
+
+* [We should all be using dependency cooldowns](https://zhu-weijie.github.io/posts/2025-11-23-dependency-cooldowns/)
+
 * [C4 Container vs Docker Container](https://zhu-weijie.github.io/posts/2025-11-11-c4-container-vs-docker-container/)
 
 * [Supabase Architecture](https://zhu-weijie.github.io/posts/2025-11-08-supabase/)
@@ -75,10 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [Tradeoff Responsibly with AI](https://zhu-weijie.github.io/posts/2025-10-24-tradeoff-responsibly-ai/)
 
 * [From Human Clicks to AI Tool Calls](https://zhu-weijie.github.io/posts/2025-10-24-tool-calls/)
-
-* [How Passkeys Work: A Revolution in Digital Security](https://zhu-weijie.github.io/posts/2025-10-23-passkey/)
-
-* [Dev Container Setup](https://zhu-weijie.github.io/posts/2025-10-20-dev-container/)
 <!-- diagrams ends -->
 
 </td>
