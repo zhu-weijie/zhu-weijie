@@ -50,6 +50,8 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 
 ### Diagrams
 <!-- diagrams starts -->
+* [C4 Container vs Docker Container](https://zhu-weijie.github.io/posts/2025-11-11-c4-container-vs-docker-container/)
+
 * [Supabase Architecture](https://zhu-weijie.github.io/posts/2025-11-08-supabase/)
 
 * [The Evolution of Software Development](https://zhu-weijie.github.io/posts/2025-11-07-evolution-of-software-development/)
@@ -77,8 +79,6 @@ Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building s
 * [How Passkeys Work: A Revolution in Digital Security](https://zhu-weijie.github.io/posts/2025-10-23-passkey/)
 
 * [Dev Container Setup](https://zhu-weijie.github.io/posts/2025-10-20-dev-container/)
-
-* [Anthropic Skills](https://zhu-weijie.github.io/posts/2025-10-20-anthropic-skills/)
 <!-- diagrams ends -->
 
 </td>
