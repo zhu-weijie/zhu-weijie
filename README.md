@@ -1,4 +1,7 @@
-Hi! I'm Zhu Weijie, a software engineer in Singapore passionate about building scalable and high-impact software. While my 10+ years of experience are rooted in backend systems with languages like Python and C++, I believe in using the right tool for the job and am always eager to dive into new languages and technologies. This profile documents my projects and explorations. I'm always open to connecting with fellow developers for insightful conversations and collaborations.
+1. Build Substance, Not Hype
+2. Think Independently, Learn Endlessly
+3. Be a Practitioner, Not Just a Preacher
+4. Chase the "Flow" State
 
 <table>
 <tr>
