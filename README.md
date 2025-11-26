@@ -9,13 +9,13 @@
 
 ### Recent Projects
 <!-- recent_projects starts -->
-* [keystone-passkey](https://github.com/zhu-weijie/keystone-passkey)<br/>⚙️A reference implementation of Passkey (WebAuthn) authentication using a containerized Node.js and Express stack.
+* [keystone-passkey](https://github.com/maximalfocus/keystone-passkey)<br/>⚙️A reference implementation of Passkey (WebAuthn) authentication using a containerized Node.js and Express stack.
 
-* [code-explain](https://github.com/zhu-weijie/code-explain)<br/>⚙️An AI-powered web application that generates clear, easy-to-understand explanations for any code snippet. This full-stack project is built with React 19, Vite, TailwindCSS, and an Express.js backend.
+* [code-explain](https://github.com/maximalfocus/code-explain)<br/>⚙️An AI-powered web application that generates clear, easy-to-understand explanations for any code snippet. This full-stack project is built with React 19, Vite, TailwindCSS, and an Express.js backend.
 
-* [design-governor-ratelimiter](https://github.com/zhu-weijie/design-governor-ratelimiter)<br/>⚙️A centralized, high-throughput rate-limiting service designed to safeguard the stability of platform APIs and microservices.
+* [design-governor-ratelimiter](https://github.com/maximalfocus/design-governor-ratelimiter)<br/>⚙️A centralized, high-throughput rate-limiting service designed to safeguard the stability of platform APIs and microservices.
 
-* [design-pharos-search](https://github.com/zhu-weijie/design-pharos-search)<br/>⚙️An architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
+* [design-pharos-search](https://github.com/maximalfocus/design-pharos-search)<br/>⚙️An architectural design for a distributed, petabyte-scale web crawler and search engine. It is engineered to deliver fast, highly available, and relevant search results, acting as a beacon to illuminate the web.
 <!-- recent_projects ends -->
 
 </td>
