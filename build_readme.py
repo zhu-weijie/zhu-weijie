@@ -10,11 +10,11 @@ load_dotenv()
 MAX_POSTS = 12
 MAX_PROJECTS = 4
 MAX_DIAGRAMS = 15
-GITHUB_USERNAME = "zhu-weijie"
-BLOG_FEED_URL = "https://zhu-weijie.github.io/rss.xml"
-DIAGRAMS_FEED_URL = "https://zhu-weijie.github.io/diagrams/rss.xml"  # New feed URL
+GITHUB_USERNAME = "maximalfocus"
+BLOG_FEED_URL = "https://maximalfocus.github.io/rss.xml"
+DIAGRAMS_FEED_URL = "https://maximalfocus.github.io/diagrams/rss.xml"  # New feed URL
 
-SKIP_REPOS = {"zhu-weijie", "zhu-weijie.github.io"}
+SKIP_REPOS = {"maximalfocus", "maximalfocus.github.io"}
 
 
 def replace_chunk(content, marker, chunk):
