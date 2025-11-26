@@ -53,6 +53,8 @@
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Spring Boot](https://zhu-weijie.github.io/posts/2025-11-26-spring-boot/)
+
 * [Hibernate](https://zhu-weijie.github.io/posts/2025-11-23-hibernate/)
 
 * [We should all be using dependency cooldowns](https://zhu-weijie.github.io/posts/2025-11-23-dependency-cooldowns/)
@@ -80,8 +82,6 @@
 * [Design Strategy](https://zhu-weijie.github.io/posts/2025-10-24-design-strategy/)
 
 * [Tradeoff Responsibly with AI](https://zhu-weijie.github.io/posts/2025-10-24-tradeoff-responsibly-ai/)
-
-* [From Human Clicks to AI Tool Calls](https://zhu-weijie.github.io/posts/2025-10-24-tool-calls/)
 <!-- diagrams ends -->
 
 </td>
