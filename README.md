@@ -53,6 +53,8 @@
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Tanium Client-Server Architecture](https://zhu-weijie.github.io/posts/2025-11-28-tanium-client-server/)
+
 * [Spring Boot](https://zhu-weijie.github.io/posts/2025-11-26-spring-boot/)
 
 * [Hibernate](https://zhu-weijie.github.io/posts/2025-11-23-hibernate/)
@@ -80,8 +82,6 @@
 * [Cross-Origin Resource Sharing (CORS) and CORSMiddleware](https://zhu-weijie.github.io/posts/2025-10-27-cors/)
 
 * [Design Strategy](https://zhu-weijie.github.io/posts/2025-10-24-design-strategy/)
-
-* [Tradeoff Responsibly with AI](https://zhu-weijie.github.io/posts/2025-10-24-tradeoff-responsibly-ai/)
 <!-- diagrams ends -->
 
 </td>
