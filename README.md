@@ -53,7 +53,7 @@
 
 ### Diagrams
 <!-- diagrams starts -->
-* [Tanium Client-Server Architecture](https://zhu-weijie.github.io/posts/2025-11-28-tanium-client-server/)
+* [Angular](https://zhu-weijie.github.io/posts/2025-11-28-angular/)
 
 * [Spring Boot](https://zhu-weijie.github.io/posts/2025-11-26-spring-boot/)
 
