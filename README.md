@@ -53,6 +53,8 @@
 
 ### Diagrams
 <!-- diagrams starts -->
+* [Musk and Kamath Discuss the Future](https://zhu-weijie.github.io/posts/20251206-musk-and-kamath-discuss-future/)
+
 * [Angular](https://zhu-weijie.github.io/posts/2025-11-28-angular/)
 
 * [Spring Boot](https://zhu-weijie.github.io/posts/2025-11-26-spring-boot/)
@@ -80,8 +82,6 @@
 * [Defining Artificial General Intelligence](https://zhu-weijie.github.io/posts/2025-10-27-agi/)
 
 * [Cross-Origin Resource Sharing (CORS) and CORSMiddleware](https://zhu-weijie.github.io/posts/2025-10-27-cors/)
-
-* [Design Strategy](https://zhu-weijie.github.io/posts/2025-10-24-design-strategy/)
 <!-- diagrams ends -->
 
 </td>
