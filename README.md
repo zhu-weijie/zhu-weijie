@@ -23,29 +23,29 @@
 
 ### On My Blog
 <!-- blog starts -->
-* [Design the Twitter (x.com) timeline and search](https://zhu-weijie.github.io/posts/2025-11-11-system-design-for-twitter-timeline-and-search/)
+* [Design the Twitter (x.com) timeline and search](https://maximalfocus.github.io/posts/2025-11-11-system-design-for-twitter-timeline-and-search/)
 
-* [Design Pastebin.com (or Bit.ly)](https://zhu-weijie.github.io/posts/2025-11-09-system-design-for-pastebin/)
+* [Design Pastebin.com (or Bit.ly)](https://maximalfocus.github.io/posts/2025-11-09-system-design-for-pastebin/)
 
-* [Zhī-Xíng-Lè Héyī: A Framework for Focus in the Age of Distraction](https://zhu-weijie.github.io/posts/2025-10-26-zhi-xing-le-he-yi/)
+* [Zhī-Xíng-Lè Héyī: A Framework for Focus in the Age of Distraction](https://maximalfocus.github.io/posts/2025-10-26-zhi-xing-le-he-yi/)
 
-* [The Complete Resilience Framework: A Two-Part System for Unshakable Calm](https://zhu-weijie.github.io/posts/2025-10-11-emotional-resilience/)
+* [The Complete Resilience Framework: A Two-Part System for Unshakable Calm](https://maximalfocus.github.io/posts/2025-10-11-emotional-resilience/)
 
-* [The Dunning-Kruger Effect](https://zhu-weijie.github.io/posts/2025-09-27-dunning-kruger-effect/)
+* [The Dunning-Kruger Effect](https://maximalfocus.github.io/posts/2025-09-27-dunning-kruger-effect/)
 
-* [A Practical Guide to Resisting Prompt Injection](https://zhu-weijie.github.io/posts/2025-09-24-resisting-prompt-injection/)
+* [A Practical Guide to Resisting Prompt Injection](https://maximalfocus.github.io/posts/2025-09-24-resisting-prompt-injection/)
 
-* [Engineering Goals for High Performance](https://zhu-weijie.github.io/posts/2025-09-17-high-performance/)
+* [Engineering Goals for High Performance](https://maximalfocus.github.io/posts/2025-09-17-high-performance/)
 
-* [Evaluating AI Applications](https://zhu-weijie.github.io/posts/2025-09-12-evaluating-ai-applications/)
+* [Evaluating AI Applications](https://maximalfocus.github.io/posts/2025-09-12-evaluating-ai-applications/)
 
-* [Building a Better LLM Reasoner](https://zhu-weijie.github.io/posts/2025-09-10-llm-reasoner/)
+* [Building a Better LLM Reasoner](https://maximalfocus.github.io/posts/2025-09-10-llm-reasoner/)
 
-* [Deep Agents Pattern](https://zhu-weijie.github.io/posts/2025-09-10-deep-agents/)
+* [Deep Agents Pattern](https://maximalfocus.github.io/posts/2025-09-10-deep-agents/)
 
-* [The Orchestration Layer for AI Agents](https://zhu-weijie.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
+* [The Orchestration Layer for AI Agents](https://maximalfocus.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 
-* [Building a Self-Updating GitHub Profile README](https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
+* [Building a Self-Updating GitHub Profile README](https://maximalfocus.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
 <!-- blog ends -->
 
 </td>
@@ -53,39 +53,39 @@
 
 ### Diagrams
 <!-- diagrams starts -->
-* [Musk and Kamath Discuss the Future](https://zhu-weijie.github.io/posts/20251206-musk-and-kamath-discuss-future/)
+* [Musk and Kamath Discuss the Future](https://maximalfocus.github.io/posts/20251206-musk-and-kamath-discuss-future/)
 
-* [Angular](https://zhu-weijie.github.io/posts/2025-11-28-angular/)
+* [Angular](https://maximalfocus.github.io/posts/2025-11-28-angular/)
 
-* [Spring Boot](https://zhu-weijie.github.io/posts/2025-11-26-spring-boot/)
+* [Spring Boot](https://maximalfocus.github.io/posts/2025-11-26-spring-boot/)
 
-* [Hibernate](https://zhu-weijie.github.io/posts/2025-11-23-hibernate/)
+* [Hibernate](https://maximalfocus.github.io/posts/2025-11-23-hibernate/)
 
-* [We should all be using dependency cooldowns](https://zhu-weijie.github.io/posts/2025-11-23-dependency-cooldowns/)
+* [We should all be using dependency cooldowns](https://maximalfocus.github.io/posts/2025-11-23-dependency-cooldowns/)
 
-* [C4 Container vs Docker Container](https://zhu-weijie.github.io/posts/2025-11-11-c4-container-vs-docker-container/)
+* [C4 Container vs Docker Container](https://maximalfocus.github.io/posts/2025-11-11-c4-container-vs-docker-container/)
 
-* [Supabase Architecture](https://zhu-weijie.github.io/posts/2025-11-08-supabase/)
+* [Supabase Architecture](https://maximalfocus.github.io/posts/2025-11-08-supabase/)
 
-* [The Evolution of Software Development](https://zhu-weijie.github.io/posts/2025-11-07-evolution-of-software-development/)
+* [The Evolution of Software Development](https://maximalfocus.github.io/posts/2025-11-07-evolution-of-software-development/)
 
-* [Synthetic Data Generation](https://zhu-weijie.github.io/posts/2025-11-06-synthetic-data/)
+* [Synthetic Data Generation](https://maximalfocus.github.io/posts/2025-11-06-synthetic-data/)
 
-* [Artificial Superintelligence](https://zhu-weijie.github.io/posts/2025-11-05-asi/)
+* [Artificial Superintelligence](https://maximalfocus.github.io/posts/2025-11-05-asi/)
 
-* [AI Business Skills](https://zhu-weijie.github.io/posts/2025-11-04-engineer-ai-skills/)
+* [AI Business Skills](https://maximalfocus.github.io/posts/2025-11-04-engineer-ai-skills/)
 
-* [Linux Boot Process](https://zhu-weijie.github.io/posts/2025-10-31-linux-boot-process/)
+* [Linux Boot Process](https://maximalfocus.github.io/posts/2025-10-31-linux-boot-process/)
 
-* [Claude Agent Skills](https://zhu-weijie.github.io/posts/2025-10-29-claude-agent-skills/)
+* [Claude Agent Skills](https://maximalfocus.github.io/posts/2025-10-29-claude-agent-skills/)
 
-* [Defining Artificial General Intelligence](https://zhu-weijie.github.io/posts/2025-10-27-agi/)
+* [Defining Artificial General Intelligence](https://maximalfocus.github.io/posts/2025-10-27-agi/)
 
-* [Cross-Origin Resource Sharing (CORS) and CORSMiddleware](https://zhu-weijie.github.io/posts/2025-10-27-cors/)
+* [Cross-Origin Resource Sharing (CORS) and CORSMiddleware](https://maximalfocus.github.io/posts/2025-10-27-cors/)
 <!-- diagrams ends -->
 
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/zhu-weijie/zhu-weijie/actions"><img src="https://github.com/zhu-weijie/zhu-weijie/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a><a href="https://zhu-weijie.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/">How this works</a>
+<a href="https://github.com/maximalfocus/maximalfocus/actions"><img src="https://github.com/maximalfocus/maximalfocus/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a><a href="https://maximalfocus.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/">How this works</a>
