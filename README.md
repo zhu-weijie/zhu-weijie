@@ -53,6 +53,8 @@
 
 ### Diagrams
 <!-- diagrams starts -->
+* [GitHub Actions Self-hosted Runner](https://maximalfocus.github.io/posts/20251227-github-actions-runners/)
+
 * [Musk and Kamath Discuss the Future](https://maximalfocus.github.io/posts/20251206-musk-and-kamath-discuss-future/)
 
 * [Angular](https://maximalfocus.github.io/posts/2025-11-28-angular/)
@@ -80,8 +82,6 @@
 * [Claude Agent Skills](https://maximalfocus.github.io/posts/2025-10-29-claude-agent-skills/)
 
 * [Defining Artificial General Intelligence](https://maximalfocus.github.io/posts/2025-10-27-agi/)
-
-* [Cross-Origin Resource Sharing (CORS) and CORSMiddleware](https://maximalfocus.github.io/posts/2025-10-27-cors/)
 <!-- diagrams ends -->
 
 </td>
