@@ -23,6 +23,8 @@
 
 ### On My Blog
 <!-- blog starts -->
+* [The Evolution of Network Architectures](https://maximalfocus.github.io/posts/20251227-architecture/)
+
 * [Design the Twitter (x.com) timeline and search](https://maximalfocus.github.io/posts/2025-11-11-system-design-for-twitter-timeline-and-search/)
 
 * [Design Pastebin.com (or Bit.ly)](https://maximalfocus.github.io/posts/2025-11-09-system-design-for-pastebin/)
@@ -44,8 +46,6 @@
 * [Deep Agents Pattern](https://maximalfocus.github.io/posts/2025-09-10-deep-agents/)
 
 * [The Orchestration Layer for AI Agents](https://maximalfocus.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
-
-* [Building a Self-Updating GitHub Profile README](https://maximalfocus.github.io/posts/2025-08-31-building-a-self-updating-github-profile-readme/)
 <!-- blog ends -->
 
 </td>
