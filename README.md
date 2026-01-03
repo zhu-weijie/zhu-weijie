@@ -23,6 +23,8 @@
 
 ### On My Blog
 <!-- blog starts -->
+* [How to Learn Anything](https://maximalfocus.github.io/posts/20260103-learn-anything/)
+
 * [The Evolution of Network Architectures](https://maximalfocus.github.io/posts/20251227-architecture/)
 
 * [Design the Twitter (x.com) timeline and search](https://maximalfocus.github.io/posts/2025-11-11-system-design-for-twitter-timeline-and-search/)
@@ -44,8 +46,6 @@
 * [Building a Better LLM Reasoner](https://maximalfocus.github.io/posts/2025-09-10-llm-reasoner/)
 
 * [Deep Agents Pattern](https://maximalfocus.github.io/posts/2025-09-10-deep-agents/)
-
-* [The Orchestration Layer for AI Agents](https://maximalfocus.github.io/posts/2025-09-01-the-orchestration-layer-for-ai-agents/)
 <!-- blog ends -->
 
 </td>
@@ -53,6 +53,8 @@
 
 ### Diagrams
 <!-- diagrams starts -->
+* [How Git Works](https://maximalfocus.github.io/posts/20260103-git/)
+
 * [GitHub Actions Self-hosted Runner](https://maximalfocus.github.io/posts/20251227-github-actions-runners/)
 
 * [Musk and Kamath Discuss the Future](https://maximalfocus.github.io/posts/20251206-musk-and-kamath-discuss-future/)
@@ -80,8 +82,6 @@
 * [Linux Boot Process](https://maximalfocus.github.io/posts/2025-10-31-linux-boot-process/)
 
 * [Claude Agent Skills](https://maximalfocus.github.io/posts/2025-10-29-claude-agent-skills/)
-
-* [Defining Artificial General Intelligence](https://maximalfocus.github.io/posts/2025-10-27-agi/)
 <!-- diagrams ends -->
 
 </td>
