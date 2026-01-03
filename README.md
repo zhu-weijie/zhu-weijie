@@ -23,6 +23,8 @@
 
 ### On My Blog
 <!-- blog starts -->
+* [The Mechanics of a Large Language Model](https://maximalfocus.github.io/posts/20260103-stephen-wolfram-interview/)
+
 * [How to Learn Anything](https://maximalfocus.github.io/posts/20260103-learn-anything/)
 
 * [The Evolution of Network Architectures](https://maximalfocus.github.io/posts/20251227-architecture/)
@@ -44,8 +46,6 @@
 * [Evaluating AI Applications](https://maximalfocus.github.io/posts/2025-09-12-evaluating-ai-applications/)
 
 * [Building a Better LLM Reasoner](https://maximalfocus.github.io/posts/2025-09-10-llm-reasoner/)
-
-* [Deep Agents Pattern](https://maximalfocus.github.io/posts/2025-09-10-deep-agents/)
 <!-- blog ends -->
 
 </td>
